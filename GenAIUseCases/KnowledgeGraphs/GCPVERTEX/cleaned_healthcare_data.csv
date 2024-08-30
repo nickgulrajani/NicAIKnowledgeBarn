@@ -1,0 +1,1001 @@
+age,gender,marital_status,education_level,chronic_conditions,allergies,current_medications,visit_date,facility,procedure,diagnosis,medication_prescribed,number_of_visits,readmission,outcome
+81,female,divorced,tertiary,none,penicillin,aspirin,2024-11-22,Outpatient Clinic,CT Scan,healthy,antihypertensive,6,0,improved
+70,female,married,tertiary,hypertension,none,blood pressure medication,2024-09-24,Outpatient Clinic,CT Scan,severe condition,none,3,0,stable
+45,male,divorced,secondary,diabetes,peanuts,aspirin,2024-04-01,Radiology,CT Scan,severe condition,antibiotic,3,1,improved
+59,male,widowed,secondary,heart disease,peanuts,blood pressure medication,2024-09-04,Emergency Room,Ultrasound,healthy,pain reliever,9,0,improved
+58,female,widowed,primary,hypertension,penicillin,antidepressants,2024-03-30,Inpatient Ward,Ultrasound,severe condition,none,4,0,improved
+66,female,divorced,secondary,heart disease,none,blood pressure medication,2024-06-11,Emergency Room,Surgery,healthy,antibiotic,5,1,improved
+29,female,single,tertiary,heart disease,penicillin,blood pressure medication,2024-12-12,Laboratory,Ultrasound,moderate condition,antibiotic,8,0,stable
+22,female,widowed,primary,heart disease,pollen,none,2024-05-15,Outpatient Clinic,Surgery,mild condition,none,4,1,improved
+64,female,divorced,primary,diabetes,peanuts,aspirin,2024-11-26,Inpatient Ward,Surgery,moderate condition,pain reliever,6,1,improved
+18,female,divorced,primary,heart disease,pollen,blood pressure medication,2024-07-26,Inpatient Ward,CT Scan,moderate condition,none,8,1,improved
+38,female,single,primary,diabetes,dust,none,2024-03-01,Radiology,X-Ray,severe condition,antibiotic,5,1,stable
+80,female,single,primary,asthma,none,blood pressure medication,2024-08-10,Inpatient Ward,Ultrasound,moderate condition,antihypertensive,5,1,worsened
+67,female,married,secondary,asthma,pollen,none,2024-10-11,Emergency Room,X-Ray,mild condition,pain reliever,3,1,stable
+85,female,single,tertiary,diabetes,dust,aspirin,2024-09-12,Outpatient Clinic,CT Scan,mild condition,antibiotic,7,0,improved
+58,male,married,primary,asthma,penicillin,aspirin,2024-11-26,Outpatient Clinic,X-Ray,healthy,antihypertensive,10,1,stable
+59,male,widowed,primary,none,peanuts,blood pressure medication,2024-10-01,Inpatient Ward,Ultrasound,severe condition,antihypertensive,7,1,stable
+75,female,divorced,primary,heart disease,pollen,insulin,2024-07-18,Inpatient Ward,Ultrasound,mild condition,pain reliever,8,0,stable
+39,female,widowed,secondary,asthma,pollen,none,2024-03-24,Emergency Room,CT Scan,severe condition,none,8,1,stable
+69,male,widowed,secondary,diabetes,peanuts,insulin,2024-06-13,Laboratory,Blood Test,mild condition,none,5,0,improved
+19,female,widowed,secondary,hypertension,peanuts,insulin,2024-01-16,Inpatient Ward,MRI,severe condition,pain reliever,7,0,worsened
+21,female,married,tertiary,asthma,peanuts,blood pressure medication,2024-06-13,Inpatient Ward,X-Ray,mild condition,none,3,0,stable
+36,female,divorced,primary,diabetes,pollen,none,2024-10-15,Outpatient Clinic,Surgery,moderate condition,pain reliever,9,0,stable
+32,male,married,tertiary,diabetes,pollen,insulin,2024-02-02,Outpatient Clinic,X-Ray,mild condition,antibiotic,7,0,worsened
+37,female,single,primary,heart disease,none,none,2024-07-04,Inpatient Ward,Surgery,severe condition,antibiotic,10,0,stable
+71,female,widowed,primary,heart disease,none,aspirin,2024-05-09,Radiology,X-Ray,severe condition,antihypertensive,7,1,improved
+44,female,widowed,tertiary,none,dust,insulin,2024-10-24,Radiology,CT Scan,severe condition,antihypertensive,1,0,worsened
+63,male,single,tertiary,diabetes,pollen,antidepressants,2024-06-30,Outpatient Clinic,X-Ray,mild condition,none,4,0,improved
+25,male,single,secondary,hypertension,pollen,aspirin,2024-03-25,Outpatient Clinic,X-Ray,mild condition,pain reliever,7,1,stable
+68,female,single,primary,diabetes,pollen,blood pressure medication,2024-12-16,Radiology,CT Scan,severe condition,pain reliever,10,1,improved
+54,male,divorced,secondary,heart disease,none,antidepressants,2024-10-19,Emergency Room,Surgery,healthy,antibiotic,3,0,improved
+84,female,divorced,tertiary,hypertension,dust,aspirin,2024-08-09,Radiology,X-Ray,severe condition,antibiotic,7,0,worsened
+26,male,married,secondary,hypertension,pollen,insulin,2024-11-19,Outpatient Clinic,Ultrasound,moderate condition,antihypertensive,2,0,worsened
+56,female,widowed,primary,hypertension,penicillin,none,2024-04-27,Laboratory,MRI,mild condition,antihypertensive,6,1,worsened
+47,female,widowed,primary,asthma,peanuts,aspirin,2024-10-03,Outpatient Clinic,Surgery,severe condition,antihypertensive,9,1,worsened
+61,female,divorced,secondary,none,peanuts,blood pressure medication,2024-05-01,Outpatient Clinic,X-Ray,moderate condition,antihypertensive,3,0,stable
+20,male,widowed,primary,diabetes,peanuts,aspirin,2024-05-14,Outpatient Clinic,Ultrasound,moderate condition,pain reliever,8,1,worsened
+75,female,divorced,tertiary,diabetes,peanuts,antidepressants,2024-05-01,Radiology,X-Ray,mild condition,none,6,1,worsened
+21,male,single,tertiary,heart disease,peanuts,blood pressure medication,2024-11-02,Radiology,Surgery,mild condition,antibiotic,10,1,improved
+33,female,married,secondary,asthma,dust,insulin,2024-07-20,Emergency Room,Surgery,healthy,pain reliever,9,0,stable
+31,male,single,tertiary,none,peanuts,blood pressure medication,2024-02-17,Outpatient Clinic,CT Scan,healthy,antibiotic,9,0,stable
+35,female,divorced,tertiary,heart disease,penicillin,insulin,2024-05-31,Emergency Room,Surgery,healthy,none,7,0,worsened
+52,male,widowed,tertiary,asthma,pollen,blood pressure medication,2024-12-11,Inpatient Ward,X-Ray,severe condition,none,5,0,worsened
+34,female,married,tertiary,diabetes,penicillin,aspirin,2024-10-17,Inpatient Ward,CT Scan,healthy,none,7,1,stable
+59,male,married,secondary,none,none,aspirin,2024-09-20,Inpatient Ward,Surgery,mild condition,antihypertensive,4,1,improved
+40,female,divorced,secondary,none,pollen,blood pressure medication,2024-08-08,Outpatient Clinic,Blood Test,mild condition,pain reliever,4,1,stable
+41,female,single,secondary,hypertension,none,blood pressure medication,2024-06-22,Laboratory,Surgery,moderate condition,none,7,0,worsened
+24,female,single,tertiary,asthma,pollen,insulin,2024-06-25,Inpatient Ward,Ultrasound,severe condition,pain reliever,5,0,improved
+18,female,married,primary,asthma,peanuts,insulin,2024-08-29,Outpatient Clinic,Blood Test,severe condition,antihypertensive,2,0,improved
+32,female,widowed,tertiary,none,dust,aspirin,2024-03-14,Emergency Room,Surgery,moderate condition,pain reliever,7,0,worsened
+77,female,divorced,tertiary,diabetes,none,insulin,2024-11-23,Outpatient Clinic,X-Ray,healthy,antibiotic,10,0,worsened
+59,female,married,tertiary,none,none,insulin,2024-07-04,Radiology,CT Scan,severe condition,none,3,0,worsened
+65,female,single,secondary,diabetes,none,blood pressure medication,2024-09-10,Radiology,X-Ray,severe condition,pain reliever,9,1,improved
+66,female,single,primary,heart disease,penicillin,blood pressure medication,2024-05-02,Outpatient Clinic,CT Scan,healthy,none,2,0,worsened
+54,male,married,tertiary,asthma,peanuts,blood pressure medication,2024-02-26,Outpatient Clinic,CT Scan,healthy,pain reliever,6,1,improved
+70,male,single,secondary,asthma,none,none,2024-05-01,Emergency Room,Blood Test,severe condition,none,3,1,stable
+79,female,married,secondary,asthma,pollen,aspirin,2024-07-23,Emergency Room,Blood Test,mild condition,pain reliever,7,0,stable
+40,female,widowed,secondary,heart disease,peanuts,insulin,2024-05-25,Radiology,CT Scan,mild condition,antibiotic,8,1,worsened
+57,male,single,secondary,heart disease,dust,blood pressure medication,2024-07-03,Emergency Room,MRI,severe condition,pain reliever,6,1,stable
+25,female,widowed,tertiary,hypertension,dust,none,2024-10-13,Radiology,CT Scan,mild condition,pain reliever,4,0,stable
+59,female,widowed,primary,diabetes,dust,antidepressants,2024-08-12,Radiology,Ultrasound,moderate condition,antibiotic,6,1,improved
+27,female,divorced,secondary,none,none,blood pressure medication,2024-11-15,Outpatient Clinic,MRI,moderate condition,pain reliever,10,1,stable
+33,male,single,primary,asthma,peanuts,antidepressants,2024-12-24,Outpatient Clinic,Blood Test,moderate condition,none,7,0,improved
+80,female,married,tertiary,hypertension,peanuts,antidepressants,2024-01-05,Emergency Room,Surgery,healthy,antihypertensive,4,0,improved
+76,male,married,tertiary,diabetes,pollen,insulin,2024-01-16,Laboratory,Surgery,moderate condition,pain reliever,1,0,worsened
+35,female,widowed,primary,asthma,dust,none,2024-12-15,Radiology,X-Ray,healthy,antihypertensive,9,0,improved
+27,female,single,primary,diabetes,none,blood pressure medication,2024-04-28,Emergency Room,Surgery,healthy,antibiotic,6,1,improved
+48,male,divorced,primary,asthma,pollen,blood pressure medication,2024-01-24,Inpatient Ward,Ultrasound,severe condition,pain reliever,2,1,worsened
+31,male,married,tertiary,hypertension,pollen,insulin,2024-09-08,Radiology,X-Ray,moderate condition,antihypertensive,4,0,stable
+62,female,single,tertiary,hypertension,none,insulin,2024-03-09,Inpatient Ward,Ultrasound,severe condition,none,6,1,stable
+28,female,single,secondary,diabetes,pollen,none,2024-05-03,Emergency Room,MRI,severe condition,antibiotic,9,1,worsened
+18,male,married,secondary,none,pollen,aspirin,2024-03-01,Laboratory,Blood Test,healthy,antibiotic,4,1,improved
+53,female,single,primary,diabetes,pollen,aspirin,2024-11-09,Radiology,MRI,healthy,none,5,0,worsened
+68,male,widowed,tertiary,none,dust,aspirin,2024-09-30,Radiology,Surgery,moderate condition,pain reliever,7,0,worsened
+66,female,married,tertiary,diabetes,none,insulin,2024-10-12,Radiology,Blood Test,severe condition,antibiotic,9,1,stable
+48,male,divorced,secondary,hypertension,dust,insulin,2024-08-17,Radiology,Surgery,moderate condition,pain reliever,7,0,improved
+69,female,widowed,tertiary,hypertension,none,none,2024-04-14,Radiology,Surgery,moderate condition,none,6,1,improved
+58,female,married,tertiary,hypertension,dust,antidepressants,2024-11-22,Radiology,Blood Test,mild condition,antibiotic,1,0,worsened
+54,female,divorced,tertiary,diabetes,peanuts,insulin,2024-08-30,Laboratory,MRI,moderate condition,antibiotic,2,0,improved
+70,male,widowed,primary,none,none,blood pressure medication,2024-07-14,Laboratory,MRI,severe condition,antibiotic,3,1,stable
+26,male,divorced,primary,asthma,penicillin,antidepressants,2024-06-28,Outpatient Clinic,MRI,moderate condition,antibiotic,2,1,improved
+60,female,married,primary,diabetes,dust,aspirin,2024-10-13,Laboratory,Blood Test,moderate condition,antibiotic,6,0,stable
+47,male,widowed,tertiary,heart disease,dust,antidepressants,2024-09-28,Inpatient Ward,Blood Test,moderate condition,none,5,0,worsened
+18,male,widowed,secondary,none,pollen,insulin,2024-10-23,Outpatient Clinic,CT Scan,healthy,antibiotic,4,1,worsened
+30,female,married,tertiary,diabetes,peanuts,none,2024-06-07,Emergency Room,Ultrasound,healthy,antibiotic,5,1,worsened
+30,female,widowed,secondary,hypertension,none,none,2024-10-28,Radiology,Blood Test,moderate condition,none,4,1,stable
+22,female,widowed,primary,asthma,none,none,2024-02-15,Emergency Room,CT Scan,healthy,antihypertensive,4,1,worsened
+40,female,single,tertiary,asthma,penicillin,insulin,2024-06-19,Laboratory,Blood Test,severe condition,antihypertensive,9,1,improved
+64,female,widowed,tertiary,hypertension,peanuts,insulin,2024-12-15,Outpatient Clinic,Blood Test,moderate condition,none,7,1,worsened
+52,male,divorced,secondary,diabetes,none,antidepressants,2024-08-13,Inpatient Ward,MRI,healthy,none,4,0,stable
+30,female,widowed,tertiary,asthma,pollen,none,2024-12-20,Inpatient Ward,X-Ray,mild condition,pain reliever,9,1,worsened
+34,male,single,secondary,hypertension,peanuts,none,2024-01-22,Emergency Room,CT Scan,healthy,antihypertensive,4,0,improved
+51,female,divorced,tertiary,hypertension,none,aspirin,2024-12-14,Laboratory,Surgery,moderate condition,none,5,0,stable
+75,male,divorced,tertiary,diabetes,peanuts,antidepressants,2024-06-02,Laboratory,Surgery,mild condition,antihypertensive,9,0,worsened
+78,male,single,secondary,none,dust,aspirin,2024-04-24,Outpatient Clinic,Ultrasound,healthy,antihypertensive,4,1,improved
+46,male,widowed,secondary,asthma,penicillin,blood pressure medication,2024-10-29,Emergency Room,X-Ray,mild condition,antibiotic,1,1,worsened
+85,male,single,secondary,asthma,dust,insulin,2024-10-30,Laboratory,CT Scan,mild condition,antibiotic,5,0,stable
+21,female,single,primary,none,dust,insulin,2024-01-02,Inpatient Ward,Blood Test,severe condition,none,9,1,improved
+45,female,married,tertiary,hypertension,none,insulin,2024-10-07,Inpatient Ward,MRI,moderate condition,none,2,0,improved
+24,male,widowed,tertiary,heart disease,none,none,2024-11-28,Outpatient Clinic,MRI,mild condition,antibiotic,5,0,worsened
+73,male,divorced,tertiary,hypertension,penicillin,antidepressants,2024-05-31,Emergency Room,MRI,severe condition,antihypertensive,1,0,stable
+73,female,married,primary,hypertension,peanuts,antidepressants,2024-04-01,Outpatient Clinic,MRI,moderate condition,pain reliever,9,0,improved
+24,female,divorced,secondary,hypertension,dust,blood pressure medication,2024-05-15,Inpatient Ward,Surgery,mild condition,antihypertensive,5,1,worsened
+78,male,divorced,primary,none,penicillin,antidepressants,2024-08-14,Laboratory,Surgery,severe condition,pain reliever,4,0,worsened
+75,male,widowed,tertiary,hypertension,dust,antidepressants,2024-03-03,Laboratory,X-Ray,mild condition,antihypertensive,7,0,improved
+23,female,single,secondary,asthma,none,none,2024-11-26,Outpatient Clinic,CT Scan,mild condition,pain reliever,7,0,worsened
+48,female,single,tertiary,asthma,none,none,2024-09-11,Outpatient Clinic,Surgery,mild condition,antibiotic,1,1,worsened
+47,female,married,tertiary,heart disease,none,antidepressants,2024-01-28,Emergency Room,CT Scan,healthy,pain reliever,8,1,improved
+75,female,single,secondary,none,dust,insulin,2024-06-11,Emergency Room,CT Scan,severe condition,pain reliever,6,1,worsened
+40,male,married,primary,none,dust,aspirin,2024-01-22,Radiology,CT Scan,mild condition,antihypertensive,2,0,improved
+64,female,married,secondary,asthma,dust,antidepressants,2024-05-01,Radiology,MRI,moderate condition,none,9,1,stable
+67,female,widowed,secondary,diabetes,none,none,2024-09-05,Radiology,MRI,healthy,none,7,0,worsened
+69,male,married,tertiary,asthma,none,insulin,2024-10-07,Inpatient Ward,Surgery,severe condition,none,6,0,stable
+60,male,married,tertiary,heart disease,penicillin,none,2024-06-09,Inpatient Ward,Blood Test,mild condition,pain reliever,7,0,worsened
+29,male,widowed,secondary,none,penicillin,antidepressants,2024-02-18,Outpatient Clinic,Blood Test,severe condition,antibiotic,4,0,improved
+85,female,married,primary,none,dust,none,2024-11-13,Laboratory,MRI,healthy,antibiotic,9,1,improved
+54,male,widowed,tertiary,none,dust,antidepressants,2024-01-24,Laboratory,MRI,healthy,antihypertensive,10,0,improved
+60,female,widowed,tertiary,heart disease,dust,insulin,2024-06-18,Laboratory,Blood Test,mild condition,antibiotic,9,0,stable
+59,female,widowed,tertiary,diabetes,peanuts,antidepressants,2024-10-02,Laboratory,Ultrasound,severe condition,pain reliever,10,0,stable
+71,male,divorced,tertiary,hypertension,penicillin,antidepressants,2024-05-19,Emergency Room,Blood Test,moderate condition,none,7,0,worsened
+41,male,divorced,primary,hypertension,dust,aspirin,2024-09-06,Laboratory,CT Scan,moderate condition,antibiotic,7,0,improved
+22,female,divorced,primary,none,peanuts,blood pressure medication,2024-07-04,Laboratory,MRI,moderate condition,antihypertensive,3,0,improved
+73,female,single,primary,heart disease,pollen,insulin,2024-01-11,Emergency Room,X-Ray,healthy,none,4,0,stable
+29,female,widowed,primary,diabetes,pollen,antidepressants,2024-12-20,Emergency Room,CT Scan,healthy,antihypertensive,6,1,improved
+69,female,divorced,primary,asthma,dust,aspirin,2024-05-05,Outpatient Clinic,CT Scan,moderate condition,antihypertensive,10,0,worsened
+63,male,single,secondary,none,pollen,insulin,2024-09-10,Laboratory,Ultrasound,severe condition,antibiotic,2,0,improved
+75,male,divorced,tertiary,none,penicillin,aspirin,2024-03-05,Radiology,CT Scan,moderate condition,antibiotic,4,1,stable
+26,male,single,primary,heart disease,pollen,antidepressants,2024-03-31,Radiology,Blood Test,moderate condition,antibiotic,8,0,stable
+27,female,divorced,tertiary,hypertension,none,insulin,2024-10-11,Inpatient Ward,CT Scan,moderate condition,pain reliever,10,0,stable
+45,female,divorced,primary,diabetes,peanuts,blood pressure medication,2024-08-09,Emergency Room,Blood Test,healthy,antihypertensive,2,0,stable
+43,female,married,primary,none,dust,antidepressants,2024-05-18,Laboratory,Surgery,severe condition,pain reliever,3,1,stable
+52,female,single,tertiary,asthma,penicillin,blood pressure medication,2024-01-24,Emergency Room,CT Scan,healthy,pain reliever,8,1,worsened
+21,male,widowed,primary,diabetes,peanuts,none,2024-10-16,Emergency Room,Surgery,severe condition,antihypertensive,5,1,worsened
+27,female,widowed,tertiary,none,pollen,insulin,2024-07-08,Radiology,Surgery,severe condition,none,9,1,stable
+82,female,married,secondary,diabetes,pollen,none,2024-01-09,Inpatient Ward,X-Ray,healthy,pain reliever,9,1,worsened
+52,female,widowed,primary,heart disease,peanuts,aspirin,2024-07-15,Laboratory,CT Scan,healthy,pain reliever,4,0,improved
+31,male,married,primary,heart disease,dust,aspirin,2024-09-02,Radiology,CT Scan,moderate condition,pain reliever,8,1,improved
+26,male,divorced,secondary,asthma,none,insulin,2024-08-20,Emergency Room,CT Scan,healthy,pain reliever,5,0,worsened
+30,male,single,tertiary,heart disease,dust,insulin,2024-01-16,Emergency Room,Ultrasound,mild condition,none,6,0,worsened
+51,male,widowed,secondary,hypertension,penicillin,insulin,2024-08-02,Emergency Room,X-Ray,moderate condition,antibiotic,1,0,worsened
+64,male,divorced,tertiary,asthma,pollen,blood pressure medication,2024-02-16,Laboratory,X-Ray,healthy,antibiotic,5,0,worsened
+63,male,widowed,tertiary,asthma,dust,blood pressure medication,2024-05-09,Outpatient Clinic,X-Ray,severe condition,pain reliever,10,0,improved
+68,female,divorced,secondary,diabetes,pollen,insulin,2024-09-18,Outpatient Clinic,Ultrasound,moderate condition,none,3,1,worsened
+63,male,widowed,tertiary,diabetes,dust,aspirin,2024-02-03,Laboratory,MRI,moderate condition,antibiotic,2,0,stable
+76,female,married,tertiary,hypertension,none,antidepressants,2024-05-30,Laboratory,X-Ray,moderate condition,antibiotic,5,1,worsened
+24,female,widowed,primary,heart disease,none,antidepressants,2024-04-13,Laboratory,Ultrasound,healthy,antibiotic,3,1,improved
+23,female,widowed,tertiary,asthma,penicillin,none,2024-08-22,Outpatient Clinic,Ultrasound,moderate condition,pain reliever,8,1,improved
+35,female,widowed,primary,hypertension,none,insulin,2024-10-22,Radiology,Ultrasound,healthy,pain reliever,7,0,stable
+25,male,widowed,secondary,hypertension,dust,aspirin,2024-02-20,Radiology,Surgery,healthy,pain reliever,6,0,improved
+82,male,single,tertiary,asthma,dust,antidepressants,2024-07-26,Emergency Room,Ultrasound,severe condition,none,2,0,improved
+29,female,single,primary,hypertension,dust,blood pressure medication,2024-09-06,Outpatient Clinic,Blood Test,severe condition,antihypertensive,7,0,stable
+84,male,married,primary,hypertension,penicillin,blood pressure medication,2024-04-13,Laboratory,Surgery,severe condition,pain reliever,3,1,improved
+62,female,divorced,tertiary,heart disease,pollen,none,2024-08-14,Emergency Room,CT Scan,healthy,none,5,0,improved
+53,female,widowed,primary,hypertension,penicillin,blood pressure medication,2024-03-18,Radiology,X-Ray,healthy,pain reliever,9,1,stable
+52,male,single,secondary,hypertension,peanuts,antidepressants,2024-12-01,Inpatient Ward,CT Scan,severe condition,pain reliever,4,1,stable
+43,female,divorced,tertiary,heart disease,none,aspirin,2024-09-17,Outpatient Clinic,Blood Test,moderate condition,antihypertensive,3,1,worsened
+47,male,single,primary,diabetes,penicillin,aspirin,2024-11-24,Inpatient Ward,CT Scan,mild condition,none,9,0,stable
+32,female,married,primary,heart disease,dust,blood pressure medication,2024-01-23,Emergency Room,Surgery,mild condition,antihypertensive,6,1,worsened
+53,male,divorced,secondary,asthma,penicillin,aspirin,2024-08-08,Inpatient Ward,MRI,moderate condition,antihypertensive,10,1,improved
+50,female,divorced,secondary,diabetes,none,aspirin,2024-04-03,Outpatient Clinic,X-Ray,mild condition,antihypertensive,2,1,improved
+70,male,married,secondary,diabetes,pollen,insulin,2024-06-14,Emergency Room,Ultrasound,severe condition,pain reliever,9,1,improved
+54,female,divorced,tertiary,asthma,peanuts,antidepressants,2024-10-21,Outpatient Clinic,X-Ray,healthy,antibiotic,4,0,worsened
+26,female,widowed,primary,none,peanuts,antidepressants,2024-09-05,Radiology,X-Ray,severe condition,antibiotic,5,1,worsened
+39,male,single,primary,heart disease,dust,insulin,2024-09-18,Laboratory,CT Scan,moderate condition,antibiotic,4,1,improved
+35,male,single,tertiary,heart disease,none,insulin,2024-10-18,Emergency Room,Surgery,moderate condition,none,4,0,stable
+78,female,married,primary,hypertension,dust,insulin,2024-09-14,Laboratory,CT Scan,healthy,pain reliever,1,0,worsened
+39,female,single,primary,diabetes,dust,aspirin,2024-12-11,Laboratory,MRI,moderate condition,antibiotic,1,1,stable
+30,male,widowed,primary,asthma,penicillin,antidepressants,2024-12-02,Inpatient Ward,MRI,severe condition,pain reliever,4,1,improved
+56,female,single,primary,asthma,pollen,insulin,2024-03-29,Inpatient Ward,Blood Test,severe condition,none,5,0,stable
+38,female,married,tertiary,heart disease,peanuts,blood pressure medication,2024-07-16,Laboratory,Blood Test,mild condition,antibiotic,10,1,stable
+25,female,widowed,secondary,asthma,peanuts,none,2024-04-20,Outpatient Clinic,Ultrasound,healthy,none,8,0,worsened
+35,male,married,primary,hypertension,pollen,antidepressants,2024-01-02,Inpatient Ward,CT Scan,mild condition,pain reliever,1,0,stable
+43,male,divorced,tertiary,heart disease,peanuts,aspirin,2024-12-26,Laboratory,MRI,moderate condition,none,8,0,worsened
+69,female,widowed,tertiary,asthma,dust,insulin,2024-12-16,Inpatient Ward,Ultrasound,healthy,pain reliever,10,0,stable
+30,male,single,tertiary,asthma,pollen,none,2024-04-01,Inpatient Ward,Blood Test,moderate condition,antihypertensive,2,0,improved
+35,female,married,primary,heart disease,penicillin,blood pressure medication,2024-05-21,Emergency Room,CT Scan,severe condition,antihypertensive,10,0,stable
+18,female,married,primary,hypertension,none,none,2024-12-06,Laboratory,Ultrasound,severe condition,antihypertensive,4,0,stable
+39,female,divorced,secondary,diabetes,pollen,blood pressure medication,2024-04-16,Inpatient Ward,Blood Test,healthy,none,8,0,improved
+71,female,married,primary,asthma,penicillin,none,2024-02-21,Radiology,Blood Test,severe condition,none,2,0,stable
+77,male,widowed,primary,hypertension,none,insulin,2024-06-07,Radiology,X-Ray,mild condition,antihypertensive,3,1,worsened
+54,female,widowed,primary,hypertension,pollen,antidepressants,2024-03-15,Laboratory,Blood Test,moderate condition,none,5,0,worsened
+20,male,married,primary,diabetes,dust,antidepressants,2024-10-24,Outpatient Clinic,Blood Test,healthy,antihypertensive,2,1,stable
+26,female,widowed,tertiary,heart disease,none,aspirin,2024-07-25,Radiology,X-Ray,severe condition,antibiotic,9,1,stable
+41,female,married,tertiary,none,none,antidepressants,2024-11-27,Emergency Room,X-Ray,healthy,antibiotic,2,0,stable
+38,male,widowed,secondary,heart disease,peanuts,antidepressants,2024-04-01,Radiology,X-Ray,severe condition,antihypertensive,5,0,improved
+44,female,widowed,primary,asthma,peanuts,blood pressure medication,2024-10-28,Outpatient Clinic,X-Ray,moderate condition,antihypertensive,6,0,worsened
+32,male,married,primary,hypertension,dust,none,2024-04-27,Inpatient Ward,Blood Test,mild condition,antibiotic,5,0,improved
+70,female,widowed,secondary,diabetes,pollen,insulin,2024-09-29,Radiology,Blood Test,mild condition,pain reliever,4,1,improved
+37,female,widowed,tertiary,diabetes,pollen,blood pressure medication,2024-07-03,Radiology,CT Scan,severe condition,antihypertensive,8,0,stable
+45,female,single,primary,hypertension,peanuts,blood pressure medication,2024-11-17,Emergency Room,MRI,healthy,pain reliever,10,1,stable
+65,male,married,tertiary,heart disease,pollen,none,2024-02-26,Laboratory,CT Scan,severe condition,antibiotic,3,0,stable
+48,male,single,primary,diabetes,dust,insulin,2024-06-29,Outpatient Clinic,Blood Test,severe condition,antihypertensive,8,0,improved
+74,female,divorced,tertiary,hypertension,none,insulin,2024-01-05,Outpatient Clinic,X-Ray,mild condition,antihypertensive,5,0,worsened
+38,female,married,tertiary,asthma,peanuts,insulin,2024-09-15,Inpatient Ward,Ultrasound,moderate condition,antihypertensive,2,1,stable
+81,female,widowed,tertiary,none,penicillin,blood pressure medication,2024-12-02,Emergency Room,Surgery,severe condition,antihypertensive,1,1,worsened
+22,female,divorced,secondary,asthma,pollen,aspirin,2024-04-13,Outpatient Clinic,CT Scan,moderate condition,none,8,1,stable
+25,female,single,secondary,diabetes,dust,aspirin,2024-12-17,Radiology,Surgery,healthy,antihypertensive,1,1,stable
+74,female,married,tertiary,none,pollen,insulin,2024-07-04,Inpatient Ward,X-Ray,severe condition,none,6,1,worsened
+25,female,single,primary,hypertension,dust,insulin,2024-02-06,Laboratory,Surgery,mild condition,pain reliever,1,0,improved
+18,male,widowed,primary,diabetes,none,insulin,2024-07-03,Inpatient Ward,MRI,healthy,none,5,1,improved
+20,male,divorced,tertiary,hypertension,none,blood pressure medication,2024-12-06,Radiology,X-Ray,moderate condition,none,10,1,improved
+80,male,married,primary,none,dust,none,2024-07-15,Emergency Room,Surgery,severe condition,none,8,1,stable
+26,female,married,primary,hypertension,peanuts,none,2024-12-07,Inpatient Ward,Blood Test,mild condition,none,4,1,worsened
+75,female,married,primary,none,peanuts,blood pressure medication,2024-05-03,Inpatient Ward,MRI,healthy,antihypertensive,10,0,improved
+85,female,single,primary,heart disease,penicillin,blood pressure medication,2024-03-09,Inpatient Ward,MRI,mild condition,antihypertensive,2,0,worsened
+81,female,single,secondary,heart disease,penicillin,aspirin,2024-06-21,Emergency Room,CT Scan,healthy,pain reliever,2,0,stable
+44,female,divorced,tertiary,diabetes,dust,insulin,2024-07-06,Radiology,Blood Test,mild condition,antibiotic,4,1,stable
+41,female,married,tertiary,none,dust,antidepressants,2024-07-23,Emergency Room,MRI,moderate condition,none,9,0,stable
+20,female,divorced,tertiary,hypertension,penicillin,insulin,2024-02-05,Laboratory,Blood Test,moderate condition,antihypertensive,4,1,stable
+69,male,divorced,secondary,diabetes,pollen,none,2024-04-17,Laboratory,MRI,severe condition,none,7,1,worsened
+44,male,single,secondary,heart disease,none,antidepressants,2024-07-23,Emergency Room,Blood Test,mild condition,pain reliever,5,0,worsened
+20,female,divorced,primary,heart disease,none,insulin,2024-03-12,Radiology,MRI,healthy,pain reliever,4,0,worsened
+37,male,widowed,primary,heart disease,penicillin,none,2024-01-12,Outpatient Clinic,Surgery,mild condition,pain reliever,2,0,improved
+68,male,single,tertiary,asthma,penicillin,insulin,2024-05-07,Outpatient Clinic,X-Ray,healthy,antihypertensive,6,0,improved
+36,female,single,primary,hypertension,peanuts,aspirin,2024-09-07,Outpatient Clinic,X-Ray,healthy,antihypertensive,2,1,improved
+59,female,divorced,primary,none,none,aspirin,2024-07-23,Inpatient Ward,MRI,moderate condition,antihypertensive,5,1,improved
+51,male,divorced,tertiary,hypertension,dust,insulin,2024-12-11,Radiology,Surgery,healthy,none,6,0,improved
+56,female,married,primary,diabetes,pollen,none,2024-03-21,Emergency Room,Surgery,healthy,antibiotic,8,0,worsened
+52,male,divorced,primary,none,penicillin,aspirin,2024-02-25,Emergency Room,Ultrasound,mild condition,antihypertensive,4,0,improved
+18,female,single,primary,diabetes,penicillin,aspirin,2024-07-22,Outpatient Clinic,Blood Test,severe condition,none,1,0,worsened
+22,female,married,tertiary,asthma,peanuts,blood pressure medication,2024-03-07,Laboratory,Surgery,healthy,antihypertensive,4,1,worsened
+45,male,single,primary,heart disease,none,insulin,2024-01-16,Laboratory,MRI,severe condition,none,1,0,worsened
+83,male,divorced,primary,asthma,dust,insulin,2024-08-22,Inpatient Ward,Blood Test,moderate condition,none,8,0,stable
+39,female,married,tertiary,hypertension,peanuts,insulin,2024-06-03,Outpatient Clinic,Ultrasound,moderate condition,none,10,0,worsened
+28,male,widowed,primary,none,none,blood pressure medication,2024-04-03,Outpatient Clinic,X-Ray,moderate condition,pain reliever,3,1,worsened
+42,male,divorced,primary,none,pollen,antidepressants,2024-08-28,Emergency Room,Blood Test,healthy,antihypertensive,1,0,improved
+80,male,married,secondary,heart disease,peanuts,none,2024-01-09,Radiology,CT Scan,severe condition,antihypertensive,9,0,improved
+71,female,divorced,primary,heart disease,pollen,blood pressure medication,2024-11-26,Outpatient Clinic,X-Ray,severe condition,pain reliever,1,1,stable
+42,male,married,secondary,hypertension,pollen,blood pressure medication,2024-06-08,Laboratory,Surgery,severe condition,pain reliever,3,0,worsened
+33,female,married,tertiary,diabetes,none,none,2024-01-02,Radiology,CT Scan,moderate condition,none,9,1,stable
+59,male,divorced,tertiary,heart disease,pollen,aspirin,2024-12-03,Radiology,Ultrasound,severe condition,antibiotic,5,1,improved
+29,male,single,tertiary,diabetes,dust,insulin,2024-07-10,Emergency Room,MRI,severe condition,antibiotic,1,0,stable
+61,male,divorced,tertiary,diabetes,penicillin,antidepressants,2024-07-26,Outpatient Clinic,Surgery,mild condition,antihypertensive,7,1,stable
+78,female,widowed,secondary,asthma,pollen,insulin,2024-02-20,Laboratory,CT Scan,moderate condition,antibiotic,2,0,improved
+85,female,single,primary,hypertension,none,insulin,2024-06-29,Radiology,Ultrasound,healthy,antibiotic,5,1,improved
+62,male,divorced,tertiary,hypertension,none,antidepressants,2024-06-12,Inpatient Ward,Surgery,mild condition,antihypertensive,7,1,improved
+80,male,single,tertiary,heart disease,dust,aspirin,2024-10-27,Emergency Room,Blood Test,moderate condition,pain reliever,10,0,improved
+25,female,married,tertiary,hypertension,none,blood pressure medication,2024-09-04,Radiology,CT Scan,mild condition,antibiotic,10,1,improved
+51,female,widowed,primary,heart disease,none,blood pressure medication,2024-09-25,Laboratory,Blood Test,healthy,none,2,1,stable
+22,male,divorced,primary,heart disease,none,aspirin,2024-02-16,Radiology,Blood Test,mild condition,antihypertensive,7,0,improved
+63,female,single,secondary,asthma,penicillin,aspirin,2024-07-04,Inpatient Ward,Ultrasound,severe condition,pain reliever,3,1,improved
+60,male,widowed,tertiary,asthma,dust,antidepressants,2024-07-02,Laboratory,Blood Test,moderate condition,antihypertensive,1,1,stable
+48,male,divorced,primary,heart disease,penicillin,blood pressure medication,2024-08-25,Outpatient Clinic,X-Ray,severe condition,pain reliever,10,1,improved
+37,male,divorced,secondary,diabetes,pollen,antidepressants,2024-10-03,Emergency Room,Surgery,healthy,antibiotic,3,1,stable
+44,female,divorced,primary,asthma,none,none,2024-11-08,Radiology,Surgery,moderate condition,antihypertensive,6,0,stable
+39,female,married,primary,none,peanuts,aspirin,2024-07-05,Radiology,X-Ray,moderate condition,antihypertensive,3,0,stable
+37,male,widowed,secondary,asthma,none,aspirin,2024-01-26,Outpatient Clinic,MRI,severe condition,antihypertensive,10,1,worsened
+80,male,single,secondary,hypertension,peanuts,blood pressure medication,2024-02-10,Laboratory,MRI,mild condition,none,1,1,improved
+82,male,married,primary,heart disease,pollen,aspirin,2024-01-28,Laboratory,CT Scan,healthy,none,9,1,stable
+46,female,married,primary,diabetes,penicillin,none,2024-03-24,Inpatient Ward,Ultrasound,severe condition,pain reliever,1,0,worsened
+42,male,divorced,secondary,heart disease,pollen,blood pressure medication,2024-07-12,Emergency Room,Ultrasound,mild condition,antibiotic,2,0,stable
+31,female,widowed,tertiary,asthma,none,antidepressants,2024-08-29,Laboratory,Ultrasound,moderate condition,none,3,0,stable
+43,male,widowed,secondary,none,peanuts,aspirin,2024-01-27,Radiology,Surgery,healthy,pain reliever,5,1,stable
+58,female,married,primary,diabetes,none,blood pressure medication,2024-10-17,Emergency Room,MRI,mild condition,antihypertensive,6,1,improved
+50,female,widowed,tertiary,hypertension,peanuts,antidepressants,2024-07-11,Laboratory,X-Ray,healthy,pain reliever,10,1,worsened
+78,male,divorced,primary,none,peanuts,aspirin,2024-04-30,Radiology,Blood Test,healthy,antihypertensive,4,1,improved
+29,female,divorced,tertiary,heart disease,none,antidepressants,2024-05-29,Laboratory,MRI,mild condition,antibiotic,9,0,stable
+64,female,single,secondary,none,peanuts,none,2024-05-31,Emergency Room,CT Scan,mild condition,pain reliever,9,0,stable
+26,female,divorced,secondary,heart disease,pollen,blood pressure medication,2024-08-13,Emergency Room,Blood Test,moderate condition,antihypertensive,10,0,stable
+83,female,single,tertiary,diabetes,peanuts,blood pressure medication,2024-05-12,Emergency Room,Blood Test,healthy,antihypertensive,8,0,stable
+50,male,married,secondary,hypertension,dust,aspirin,2024-02-18,Radiology,Ultrasound,severe condition,none,5,0,stable
+48,female,widowed,tertiary,heart disease,peanuts,insulin,2024-07-27,Inpatient Ward,MRI,mild condition,antihypertensive,3,0,worsened
+70,female,divorced,secondary,none,dust,none,2024-07-31,Inpatient Ward,MRI,severe condition,antihypertensive,7,1,improved
+55,female,single,tertiary,diabetes,none,insulin,2024-01-24,Outpatient Clinic,Surgery,mild condition,pain reliever,6,1,worsened
+41,male,divorced,secondary,none,none,insulin,2024-10-18,Inpatient Ward,X-Ray,healthy,antibiotic,1,0,stable
+25,female,widowed,primary,heart disease,dust,aspirin,2024-06-09,Inpatient Ward,CT Scan,severe condition,pain reliever,1,1,stable
+83,male,divorced,primary,heart disease,pollen,aspirin,2024-12-08,Outpatient Clinic,X-Ray,moderate condition,antihypertensive,2,1,worsened
+39,female,married,secondary,heart disease,dust,blood pressure medication,2024-03-03,Outpatient Clinic,MRI,severe condition,antibiotic,1,0,stable
+62,male,married,primary,hypertension,dust,aspirin,2024-06-18,Laboratory,Ultrasound,moderate condition,antibiotic,9,0,stable
+41,male,single,primary,heart disease,peanuts,aspirin,2024-08-26,Laboratory,CT Scan,mild condition,pain reliever,4,0,stable
+40,male,divorced,tertiary,none,peanuts,blood pressure medication,2024-09-23,Emergency Room,MRI,moderate condition,none,6,0,stable
+84,female,divorced,secondary,asthma,none,insulin,2024-04-08,Laboratory,CT Scan,mild condition,none,8,0,worsened
+57,female,divorced,tertiary,heart disease,dust,aspirin,2024-04-05,Emergency Room,CT Scan,mild condition,pain reliever,10,0,stable
+52,female,widowed,primary,hypertension,none,none,2024-09-15,Emergency Room,Ultrasound,mild condition,pain reliever,9,1,improved
+34,male,divorced,secondary,diabetes,none,insulin,2024-08-25,Inpatient Ward,X-Ray,healthy,none,6,1,worsened
+66,female,single,secondary,diabetes,pollen,insulin,2024-10-11,Emergency Room,X-Ray,moderate condition,antibiotic,8,0,improved
+80,male,single,primary,hypertension,pollen,aspirin,2024-08-15,Outpatient Clinic,MRI,healthy,antibiotic,9,0,improved
+65,male,single,primary,diabetes,none,insulin,2024-12-02,Radiology,CT Scan,severe condition,antibiotic,6,1,stable
+29,male,single,secondary,none,peanuts,aspirin,2024-04-06,Inpatient Ward,Ultrasound,severe condition,antihypertensive,4,0,worsened
+35,female,widowed,secondary,heart disease,dust,antidepressants,2024-02-18,Inpatient Ward,CT Scan,healthy,pain reliever,3,1,improved
+55,male,divorced,secondary,none,dust,insulin,2024-08-25,Laboratory,Surgery,healthy,pain reliever,2,1,improved
+79,male,married,secondary,hypertension,pollen,insulin,2024-10-23,Outpatient Clinic,CT Scan,moderate condition,antibiotic,4,1,worsened
+66,male,married,secondary,diabetes,pollen,insulin,2024-08-11,Radiology,CT Scan,severe condition,pain reliever,10,0,worsened
+40,female,divorced,tertiary,diabetes,none,antidepressants,2024-02-28,Inpatient Ward,CT Scan,severe condition,none,1,1,improved
+27,male,married,tertiary,heart disease,none,blood pressure medication,2024-04-19,Radiology,Surgery,healthy,pain reliever,1,0,worsened
+69,male,widowed,secondary,heart disease,penicillin,antidepressants,2024-07-28,Radiology,Surgery,moderate condition,pain reliever,5,0,worsened
+21,female,divorced,primary,asthma,none,insulin,2024-04-09,Emergency Room,CT Scan,moderate condition,antihypertensive,9,1,stable
+55,male,single,tertiary,none,none,aspirin,2024-08-04,Laboratory,Ultrasound,moderate condition,none,5,0,improved
+85,female,single,secondary,none,peanuts,none,2024-01-29,Inpatient Ward,Surgery,mild condition,pain reliever,7,0,improved
+31,male,divorced,primary,hypertension,peanuts,antidepressants,2024-06-03,Emergency Room,Surgery,severe condition,antihypertensive,9,0,improved
+55,female,divorced,tertiary,hypertension,none,aspirin,2024-09-20,Outpatient Clinic,CT Scan,moderate condition,none,6,1,stable
+32,female,divorced,primary,asthma,penicillin,blood pressure medication,2024-07-15,Emergency Room,MRI,mild condition,antihypertensive,1,1,improved
+54,female,widowed,primary,hypertension,none,insulin,2024-04-24,Emergency Room,CT Scan,moderate condition,pain reliever,5,0,worsened
+57,female,divorced,tertiary,none,none,blood pressure medication,2024-05-01,Radiology,Blood Test,moderate condition,antihypertensive,8,1,stable
+47,female,divorced,secondary,diabetes,pollen,none,2024-04-26,Inpatient Ward,Blood Test,healthy,antihypertensive,10,0,worsened
+69,male,divorced,secondary,none,dust,blood pressure medication,2024-02-05,Emergency Room,Blood Test,severe condition,pain reliever,4,0,improved
+45,male,divorced,primary,none,penicillin,none,2024-06-15,Laboratory,Ultrasound,mild condition,pain reliever,9,1,stable
+43,male,married,primary,heart disease,penicillin,aspirin,2024-10-15,Emergency Room,CT Scan,mild condition,antibiotic,6,1,improved
+43,male,divorced,secondary,none,dust,aspirin,2024-08-31,Emergency Room,Ultrasound,moderate condition,pain reliever,7,1,worsened
+47,male,married,tertiary,hypertension,peanuts,antidepressants,2024-04-14,Outpatient Clinic,Surgery,healthy,antihypertensive,5,0,stable
+46,female,married,tertiary,hypertension,dust,antidepressants,2024-01-28,Emergency Room,MRI,healthy,none,3,0,stable
+62,female,married,primary,asthma,dust,insulin,2024-05-11,Outpatient Clinic,Ultrasound,severe condition,pain reliever,2,1,worsened
+83,female,married,secondary,diabetes,pollen,insulin,2024-04-09,Emergency Room,Surgery,mild condition,antibiotic,2,0,stable
+56,female,widowed,primary,diabetes,peanuts,aspirin,2024-02-28,Inpatient Ward,Ultrasound,severe condition,antihypertensive,8,0,improved
+52,female,single,secondary,diabetes,peanuts,insulin,2024-11-06,Emergency Room,MRI,moderate condition,none,1,1,improved
+35,male,single,tertiary,asthma,pollen,aspirin,2024-06-07,Radiology,MRI,mild condition,antihypertensive,6,0,stable
+44,female,divorced,primary,diabetes,pollen,aspirin,2024-02-29,Laboratory,CT Scan,mild condition,antihypertensive,9,1,worsened
+82,male,widowed,primary,asthma,peanuts,aspirin,2024-01-09,Outpatient Clinic,Ultrasound,mild condition,none,1,0,stable
+56,male,married,primary,asthma,none,insulin,2024-02-01,Laboratory,Blood Test,moderate condition,antibiotic,8,1,improved
+61,male,single,secondary,hypertension,dust,aspirin,2024-01-15,Emergency Room,Ultrasound,severe condition,antibiotic,1,0,stable
+32,female,widowed,tertiary,none,penicillin,none,2024-12-26,Inpatient Ward,CT Scan,healthy,pain reliever,2,1,stable
+30,female,married,tertiary,asthma,dust,insulin,2024-12-12,Radiology,MRI,severe condition,none,2,1,improved
+69,male,divorced,primary,none,pollen,insulin,2024-03-15,Outpatient Clinic,MRI,healthy,antihypertensive,9,1,improved
+32,female,widowed,secondary,diabetes,pollen,antidepressants,2024-05-14,Outpatient Clinic,Surgery,severe condition,none,4,0,improved
+63,female,widowed,tertiary,heart disease,peanuts,none,2024-03-25,Inpatient Ward,Surgery,severe condition,antihypertensive,10,0,worsened
+83,male,widowed,secondary,asthma,dust,antidepressants,2024-02-17,Emergency Room,Surgery,mild condition,antihypertensive,6,1,stable
+81,male,married,tertiary,heart disease,dust,aspirin,2024-12-12,Emergency Room,MRI,severe condition,none,2,0,improved
+55,male,divorced,tertiary,diabetes,none,antidepressants,2024-04-01,Laboratory,CT Scan,moderate condition,antibiotic,4,1,improved
+38,male,single,primary,heart disease,dust,aspirin,2024-07-10,Emergency Room,X-Ray,severe condition,none,10,0,stable
+52,female,divorced,secondary,diabetes,peanuts,none,2024-01-27,Outpatient Clinic,Ultrasound,severe condition,none,1,1,improved
+44,female,single,tertiary,none,dust,aspirin,2024-09-07,Laboratory,Ultrasound,moderate condition,none,10,0,improved
+46,male,single,primary,heart disease,dust,blood pressure medication,2024-01-15,Laboratory,CT Scan,moderate condition,none,1,0,worsened
+23,female,divorced,secondary,none,none,aspirin,2024-01-30,Inpatient Ward,MRI,healthy,none,2,1,improved
+82,female,divorced,secondary,diabetes,peanuts,blood pressure medication,2024-05-02,Inpatient Ward,MRI,severe condition,antihypertensive,4,0,worsened
+58,female,single,tertiary,diabetes,penicillin,blood pressure medication,2024-11-09,Emergency Room,Ultrasound,healthy,antibiotic,5,0,worsened
+63,male,single,secondary,diabetes,penicillin,antidepressants,2024-07-08,Radiology,CT Scan,healthy,antibiotic,10,1,stable
+42,male,single,secondary,diabetes,peanuts,aspirin,2024-02-07,Inpatient Ward,MRI,moderate condition,antibiotic,1,1,stable
+32,female,divorced,primary,none,dust,aspirin,2024-11-20,Emergency Room,MRI,healthy,none,10,0,improved
+34,male,married,tertiary,diabetes,none,blood pressure medication,2024-11-30,Radiology,Ultrasound,severe condition,antihypertensive,6,0,improved
+77,male,divorced,tertiary,asthma,penicillin,insulin,2024-10-13,Radiology,X-Ray,healthy,none,1,1,stable
+47,female,widowed,tertiary,heart disease,dust,antidepressants,2024-08-08,Outpatient Clinic,Ultrasound,moderate condition,pain reliever,7,1,improved
+23,female,divorced,primary,diabetes,none,blood pressure medication,2024-09-20,Outpatient Clinic,X-Ray,severe condition,pain reliever,7,0,stable
+77,male,divorced,primary,hypertension,pollen,aspirin,2024-01-08,Laboratory,Surgery,healthy,pain reliever,10,1,improved
+76,male,single,secondary,hypertension,dust,blood pressure medication,2024-10-29,Radiology,Ultrasound,moderate condition,antihypertensive,9,1,worsened
+33,female,divorced,primary,heart disease,peanuts,antidepressants,2024-02-27,Outpatient Clinic,Surgery,moderate condition,none,5,0,stable
+50,female,divorced,primary,none,peanuts,blood pressure medication,2024-12-18,Inpatient Ward,Surgery,severe condition,none,7,0,worsened
+26,female,married,tertiary,asthma,pollen,insulin,2024-11-17,Emergency Room,MRI,moderate condition,none,4,0,improved
+42,male,widowed,secondary,diabetes,peanuts,antidepressants,2024-12-30,Laboratory,Blood Test,severe condition,antibiotic,8,0,stable
+75,male,widowed,tertiary,none,pollen,insulin,2024-01-06,Emergency Room,MRI,moderate condition,pain reliever,5,1,worsened
+36,female,widowed,tertiary,heart disease,penicillin,blood pressure medication,2024-05-19,Laboratory,X-Ray,moderate condition,antibiotic,9,0,worsened
+48,female,divorced,secondary,none,none,blood pressure medication,2024-02-01,Laboratory,X-Ray,mild condition,antihypertensive,6,1,worsened
+42,female,widowed,primary,asthma,peanuts,none,2024-04-22,Radiology,Blood Test,mild condition,antihypertensive,1,0,worsened
+27,male,married,tertiary,diabetes,dust,insulin,2024-09-05,Inpatient Ward,CT Scan,mild condition,pain reliever,5,0,stable
+64,male,divorced,tertiary,heart disease,pollen,insulin,2024-11-28,Emergency Room,Surgery,severe condition,antibiotic,5,0,worsened
+37,female,widowed,primary,heart disease,pollen,blood pressure medication,2024-06-25,Outpatient Clinic,Ultrasound,severe condition,antibiotic,2,0,worsened
+62,female,widowed,tertiary,hypertension,peanuts,antidepressants,2024-02-22,Radiology,MRI,mild condition,antihypertensive,5,1,stable
+38,male,single,secondary,asthma,penicillin,aspirin,2024-05-25,Laboratory,Blood Test,mild condition,antihypertensive,6,1,improved
+76,female,widowed,secondary,asthma,pollen,none,2024-05-26,Radiology,MRI,moderate condition,none,1,1,stable
+18,female,divorced,secondary,asthma,dust,insulin,2024-10-12,Radiology,Surgery,healthy,antihypertensive,8,0,worsened
+19,female,married,secondary,diabetes,penicillin,aspirin,2024-06-11,Inpatient Ward,CT Scan,moderate condition,none,9,1,worsened
+69,female,divorced,tertiary,hypertension,pollen,none,2024-10-09,Inpatient Ward,CT Scan,mild condition,antibiotic,3,1,stable
+52,male,married,secondary,asthma,peanuts,aspirin,2024-03-19,Emergency Room,MRI,moderate condition,pain reliever,9,0,worsened
+67,female,married,secondary,hypertension,pollen,blood pressure medication,2024-05-30,Radiology,X-Ray,healthy,pain reliever,8,1,improved
+66,female,widowed,primary,asthma,peanuts,none,2024-09-17,Emergency Room,Surgery,healthy,antihypertensive,5,0,improved
+81,male,divorced,primary,hypertension,pollen,antidepressants,2024-09-24,Laboratory,Surgery,healthy,none,6,0,improved
+63,female,widowed,secondary,hypertension,penicillin,blood pressure medication,2024-05-06,Radiology,Ultrasound,severe condition,pain reliever,3,0,improved
+61,male,single,tertiary,diabetes,dust,insulin,2024-08-05,Emergency Room,Ultrasound,moderate condition,antihypertensive,10,1,stable
+33,male,divorced,primary,heart disease,peanuts,insulin,2024-12-09,Inpatient Ward,MRI,moderate condition,antibiotic,2,0,improved
+27,female,married,secondary,diabetes,none,aspirin,2024-04-05,Outpatient Clinic,X-Ray,severe condition,antihypertensive,9,0,worsened
+23,female,divorced,secondary,diabetes,dust,aspirin,2024-05-01,Emergency Room,X-Ray,moderate condition,pain reliever,1,1,worsened
+23,female,widowed,tertiary,none,dust,none,2024-02-11,Radiology,MRI,healthy,antibiotic,7,0,worsened
+62,male,widowed,tertiary,none,pollen,insulin,2024-04-22,Laboratory,X-Ray,healthy,antibiotic,9,1,stable
+79,male,divorced,primary,hypertension,none,antidepressants,2024-01-10,Inpatient Ward,MRI,mild condition,pain reliever,2,0,worsened
+21,female,divorced,secondary,asthma,pollen,blood pressure medication,2024-02-20,Outpatient Clinic,MRI,mild condition,pain reliever,10,0,improved
+61,female,divorced,secondary,asthma,peanuts,antidepressants,2024-05-25,Radiology,Ultrasound,healthy,antihypertensive,10,0,worsened
+76,female,divorced,secondary,asthma,pollen,antidepressants,2024-04-30,Emergency Room,Surgery,moderate condition,pain reliever,9,1,stable
+51,male,widowed,primary,hypertension,peanuts,insulin,2024-11-08,Emergency Room,X-Ray,severe condition,antibiotic,8,1,improved
+38,male,married,tertiary,heart disease,peanuts,antidepressants,2024-01-02,Outpatient Clinic,Ultrasound,healthy,pain reliever,4,0,stable
+61,male,single,primary,diabetes,dust,none,2024-12-07,Outpatient Clinic,Surgery,healthy,none,9,0,worsened
+32,female,married,primary,diabetes,penicillin,blood pressure medication,2024-12-29,Outpatient Clinic,Blood Test,moderate condition,antihypertensive,1,0,stable
+28,male,divorced,tertiary,heart disease,dust,insulin,2024-01-08,Emergency Room,Surgery,healthy,antibiotic,1,1,improved
+59,female,widowed,tertiary,asthma,none,antidepressants,2024-06-21,Laboratory,MRI,moderate condition,pain reliever,4,1,improved
+66,female,single,primary,hypertension,none,blood pressure medication,2024-09-18,Outpatient Clinic,Blood Test,mild condition,pain reliever,8,1,worsened
+33,female,divorced,primary,asthma,penicillin,antidepressants,2024-01-11,Emergency Room,MRI,moderate condition,antihypertensive,10,1,improved
+82,female,single,tertiary,hypertension,penicillin,aspirin,2024-04-26,Radiology,Blood Test,moderate condition,pain reliever,1,1,improved
+19,female,married,tertiary,diabetes,pollen,insulin,2024-01-28,Emergency Room,Ultrasound,mild condition,none,1,0,stable
+36,female,single,primary,asthma,dust,none,2024-04-11,Emergency Room,CT Scan,mild condition,none,9,0,improved
+43,female,widowed,secondary,asthma,dust,aspirin,2024-04-27,Laboratory,CT Scan,healthy,antihypertensive,3,0,improved
+61,male,divorced,tertiary,none,pollen,none,2024-12-08,Radiology,Blood Test,severe condition,antihypertensive,4,0,worsened
+79,female,divorced,tertiary,diabetes,dust,insulin,2024-01-05,Laboratory,MRI,severe condition,pain reliever,9,1,worsened
+25,female,widowed,primary,hypertension,none,aspirin,2024-04-03,Outpatient Clinic,MRI,severe condition,antihypertensive,7,0,worsened
+65,female,widowed,secondary,hypertension,penicillin,insulin,2024-01-04,Emergency Room,Blood Test,healthy,antibiotic,1,1,improved
+75,female,married,secondary,heart disease,none,blood pressure medication,2024-04-15,Emergency Room,MRI,moderate condition,pain reliever,2,1,stable
+62,male,widowed,tertiary,asthma,penicillin,blood pressure medication,2024-04-07,Radiology,Surgery,mild condition,antihypertensive,10,1,improved
+60,male,married,tertiary,hypertension,none,none,2024-04-08,Laboratory,Surgery,mild condition,antihypertensive,10,0,improved
+44,female,single,secondary,diabetes,none,blood pressure medication,2024-11-22,Laboratory,Blood Test,severe condition,none,2,0,stable
+69,male,divorced,primary,asthma,pollen,insulin,2024-06-07,Inpatient Ward,Ultrasound,mild condition,pain reliever,9,0,worsened
+43,male,married,tertiary,heart disease,dust,insulin,2024-01-15,Inpatient Ward,CT Scan,mild condition,antihypertensive,2,0,improved
+21,female,divorced,primary,heart disease,none,blood pressure medication,2024-08-05,Emergency Room,MRI,severe condition,antihypertensive,10,1,improved
+81,female,divorced,primary,diabetes,pollen,none,2024-11-18,Inpatient Ward,Blood Test,mild condition,antihypertensive,10,1,improved
+46,female,widowed,tertiary,heart disease,none,insulin,2024-01-03,Radiology,Ultrasound,mild condition,antihypertensive,1,1,worsened
+69,female,single,tertiary,heart disease,pollen,antidepressants,2024-12-23,Inpatient Ward,Ultrasound,healthy,antibiotic,1,0,worsened
+75,male,widowed,secondary,asthma,none,aspirin,2024-05-26,Laboratory,Blood Test,moderate condition,pain reliever,6,0,worsened
+79,male,single,secondary,diabetes,pollen,aspirin,2024-01-15,Outpatient Clinic,CT Scan,mild condition,antibiotic,6,1,stable
+44,female,divorced,secondary,heart disease,dust,none,2024-04-30,Inpatient Ward,X-Ray,moderate condition,none,2,0,improved
+36,male,divorced,tertiary,diabetes,dust,aspirin,2024-03-19,Laboratory,CT Scan,moderate condition,antibiotic,4,0,worsened
+55,female,single,secondary,none,dust,none,2024-06-15,Laboratory,Surgery,moderate condition,none,3,1,worsened
+63,male,married,tertiary,asthma,none,antidepressants,2024-04-08,Radiology,Surgery,severe condition,pain reliever,10,0,worsened
+68,female,single,secondary,asthma,pollen,blood pressure medication,2024-08-16,Outpatient Clinic,X-Ray,severe condition,pain reliever,6,1,worsened
+21,female,single,primary,none,pollen,none,2024-10-04,Outpatient Clinic,Blood Test,mild condition,pain reliever,9,1,worsened
+54,female,divorced,primary,asthma,penicillin,insulin,2024-09-08,Radiology,MRI,mild condition,antibiotic,7,0,worsened
+31,male,widowed,primary,hypertension,penicillin,blood pressure medication,2024-09-21,Outpatient Clinic,Blood Test,healthy,pain reliever,8,1,worsened
+23,female,married,tertiary,asthma,dust,blood pressure medication,2024-05-05,Outpatient Clinic,X-Ray,moderate condition,antibiotic,10,1,improved
+58,male,single,secondary,diabetes,dust,insulin,2024-07-28,Radiology,Ultrasound,mild condition,antibiotic,5,0,improved
+19,female,divorced,primary,hypertension,penicillin,aspirin,2024-08-18,Laboratory,MRI,healthy,pain reliever,5,1,improved
+77,male,married,tertiary,heart disease,penicillin,aspirin,2024-12-20,Inpatient Ward,Blood Test,healthy,antibiotic,8,1,improved
+40,male,widowed,tertiary,diabetes,dust,insulin,2024-12-28,Outpatient Clinic,Ultrasound,healthy,pain reliever,8,0,improved
+64,male,single,secondary,none,penicillin,none,2024-08-11,Outpatient Clinic,CT Scan,healthy,none,7,1,stable
+82,male,single,primary,asthma,peanuts,none,2024-11-02,Laboratory,Ultrasound,healthy,antibiotic,5,0,stable
+48,female,married,primary,heart disease,penicillin,blood pressure medication,2024-12-23,Inpatient Ward,CT Scan,moderate condition,pain reliever,4,0,stable
+29,male,divorced,primary,hypertension,peanuts,blood pressure medication,2024-11-22,Emergency Room,Surgery,moderate condition,none,4,1,stable
+50,female,single,tertiary,none,penicillin,none,2024-07-31,Laboratory,Surgery,healthy,none,4,0,stable
+46,female,married,secondary,none,peanuts,none,2024-07-09,Radiology,CT Scan,healthy,none,6,1,stable
+39,male,widowed,secondary,heart disease,pollen,none,2024-12-20,Emergency Room,Ultrasound,healthy,none,4,1,improved
+51,male,divorced,primary,none,dust,blood pressure medication,2024-06-26,Radiology,CT Scan,moderate condition,antibiotic,7,1,stable
+44,female,widowed,secondary,none,pollen,aspirin,2024-08-24,Radiology,Surgery,mild condition,antihypertensive,6,0,stable
+78,female,widowed,secondary,diabetes,none,insulin,2024-03-15,Outpatient Clinic,Blood Test,moderate condition,antihypertensive,9,1,stable
+50,male,married,primary,heart disease,none,none,2024-09-17,Emergency Room,MRI,healthy,none,2,1,improved
+44,male,single,primary,heart disease,penicillin,insulin,2024-08-28,Outpatient Clinic,Surgery,moderate condition,antihypertensive,2,0,improved
+76,male,single,tertiary,hypertension,none,blood pressure medication,2024-10-13,Laboratory,Surgery,moderate condition,pain reliever,7,0,worsened
+49,male,married,secondary,asthma,dust,blood pressure medication,2024-11-16,Inpatient Ward,Ultrasound,mild condition,none,4,0,stable
+52,female,widowed,tertiary,hypertension,none,aspirin,2024-10-26,Inpatient Ward,Blood Test,mild condition,pain reliever,2,1,worsened
+67,male,widowed,primary,asthma,pollen,aspirin,2024-02-20,Radiology,MRI,moderate condition,antihypertensive,6,1,worsened
+19,female,widowed,tertiary,none,dust,insulin,2024-07-05,Laboratory,X-Ray,moderate condition,antihypertensive,3,1,worsened
+85,female,married,secondary,asthma,none,blood pressure medication,2024-11-20,Inpatient Ward,X-Ray,moderate condition,antibiotic,2,0,stable
+32,female,married,tertiary,asthma,pollen,insulin,2024-09-02,Radiology,Ultrasound,healthy,none,7,1,stable
+70,female,single,primary,none,peanuts,antidepressants,2024-07-23,Emergency Room,MRI,severe condition,pain reliever,5,1,improved
+39,female,divorced,primary,heart disease,peanuts,none,2024-07-29,Outpatient Clinic,CT Scan,mild condition,pain reliever,5,0,stable
+79,female,divorced,secondary,heart disease,dust,none,2024-11-07,Emergency Room,Blood Test,moderate condition,antihypertensive,8,1,worsened
+62,female,single,primary,diabetes,peanuts,insulin,2024-07-24,Radiology,Blood Test,severe condition,antibiotic,5,0,worsened
+71,female,single,secondary,hypertension,pollen,antidepressants,2024-05-04,Outpatient Clinic,CT Scan,moderate condition,antibiotic,3,1,worsened
+59,female,single,secondary,none,dust,aspirin,2024-12-01,Emergency Room,X-Ray,healthy,none,8,1,worsened
+38,female,widowed,tertiary,none,penicillin,none,2024-02-04,Laboratory,Blood Test,moderate condition,antibiotic,5,0,worsened
+25,male,widowed,tertiary,none,peanuts,insulin,2024-06-07,Laboratory,X-Ray,mild condition,antihypertensive,10,1,stable
+77,male,single,tertiary,none,penicillin,insulin,2024-12-29,Laboratory,Surgery,moderate condition,antibiotic,5,0,improved
+76,male,widowed,secondary,none,penicillin,aspirin,2024-03-09,Emergency Room,Ultrasound,mild condition,antihypertensive,5,0,worsened
+38,female,widowed,primary,asthma,dust,none,2024-04-16,Radiology,Ultrasound,healthy,antihypertensive,8,1,stable
+82,male,married,tertiary,none,pollen,insulin,2024-10-06,Emergency Room,Ultrasound,severe condition,none,8,1,worsened
+27,female,widowed,secondary,hypertension,penicillin,blood pressure medication,2024-02-08,Radiology,X-Ray,mild condition,pain reliever,5,1,improved
+84,male,married,primary,asthma,none,aspirin,2024-07-20,Laboratory,Surgery,severe condition,antibiotic,2,0,worsened
+80,male,single,tertiary,heart disease,none,none,2024-03-22,Outpatient Clinic,Surgery,healthy,antihypertensive,10,0,improved
+73,female,divorced,secondary,asthma,none,antidepressants,2024-06-26,Radiology,Ultrasound,moderate condition,antihypertensive,7,1,worsened
+49,male,widowed,tertiary,asthma,penicillin,antidepressants,2024-07-15,Emergency Room,Ultrasound,mild condition,antihypertensive,3,0,worsened
+41,male,widowed,secondary,hypertension,penicillin,insulin,2024-08-26,Inpatient Ward,X-Ray,moderate condition,none,8,1,stable
+36,male,divorced,tertiary,none,penicillin,insulin,2024-02-14,Inpatient Ward,Surgery,mild condition,antibiotic,8,1,worsened
+60,male,married,secondary,heart disease,none,antidepressants,2024-12-13,Emergency Room,CT Scan,mild condition,antibiotic,3,1,stable
+66,male,married,tertiary,asthma,penicillin,insulin,2024-02-29,Inpatient Ward,Surgery,severe condition,pain reliever,2,1,worsened
+55,male,divorced,secondary,none,none,aspirin,2024-08-24,Radiology,Surgery,severe condition,antihypertensive,5,1,improved
+28,female,widowed,primary,asthma,penicillin,insulin,2024-08-08,Emergency Room,Blood Test,severe condition,none,3,0,stable
+77,female,single,tertiary,hypertension,pollen,insulin,2024-10-05,Radiology,Blood Test,severe condition,none,5,1,worsened
+70,male,divorced,primary,heart disease,pollen,antidepressants,2024-01-03,Laboratory,MRI,healthy,none,4,0,stable
+85,female,single,secondary,heart disease,none,insulin,2024-08-24,Emergency Room,CT Scan,moderate condition,antihypertensive,4,1,improved
+30,male,widowed,tertiary,none,dust,antidepressants,2024-02-08,Laboratory,Blood Test,healthy,pain reliever,10,0,stable
+26,female,married,tertiary,none,pollen,aspirin,2024-06-13,Laboratory,X-Ray,moderate condition,pain reliever,6,1,improved
+76,female,married,secondary,diabetes,dust,antidepressants,2024-01-17,Outpatient Clinic,Blood Test,healthy,antihypertensive,5,0,improved
+35,male,widowed,primary,asthma,penicillin,aspirin,2024-02-29,Inpatient Ward,Surgery,severe condition,antibiotic,9,1,stable
+66,male,divorced,secondary,heart disease,penicillin,none,2024-09-16,Radiology,Blood Test,healthy,pain reliever,8,0,improved
+22,female,divorced,tertiary,asthma,peanuts,antidepressants,2024-05-29,Laboratory,X-Ray,severe condition,antihypertensive,1,1,improved
+56,female,divorced,tertiary,asthma,dust,antidepressants,2024-10-04,Emergency Room,Surgery,mild condition,none,4,1,improved
+65,male,widowed,primary,diabetes,dust,insulin,2024-10-12,Inpatient Ward,X-Ray,moderate condition,none,4,1,worsened
+66,male,widowed,primary,heart disease,peanuts,antidepressants,2024-08-11,Outpatient Clinic,X-Ray,severe condition,antihypertensive,8,0,stable
+64,female,single,primary,hypertension,peanuts,none,2024-08-08,Emergency Room,MRI,severe condition,pain reliever,7,0,worsened
+52,female,single,secondary,hypertension,peanuts,antidepressants,2024-09-13,Outpatient Clinic,X-Ray,severe condition,antibiotic,1,0,stable
+40,male,divorced,secondary,asthma,none,insulin,2024-05-15,Radiology,Ultrasound,healthy,none,8,0,improved
+70,male,widowed,primary,asthma,pollen,insulin,2024-03-02,Radiology,X-Ray,healthy,none,9,1,stable
+83,female,divorced,primary,diabetes,penicillin,blood pressure medication,2024-01-24,Emergency Room,MRI,moderate condition,antihypertensive,2,0,worsened
+28,male,single,tertiary,none,none,aspirin,2024-08-04,Laboratory,X-Ray,moderate condition,pain reliever,8,0,stable
+45,male,single,secondary,diabetes,pollen,none,2024-08-20,Laboratory,CT Scan,mild condition,antihypertensive,10,1,stable
+74,female,widowed,primary,diabetes,penicillin,none,2024-05-02,Outpatient Clinic,Surgery,healthy,pain reliever,6,0,stable
+22,male,married,secondary,none,dust,aspirin,2024-11-15,Outpatient Clinic,Ultrasound,mild condition,pain reliever,10,0,improved
+66,male,divorced,secondary,none,pollen,blood pressure medication,2024-05-20,Emergency Room,Blood Test,moderate condition,none,7,1,improved
+33,female,widowed,tertiary,none,none,blood pressure medication,2024-02-21,Emergency Room,CT Scan,healthy,antihypertensive,5,1,stable
+53,male,married,secondary,diabetes,peanuts,aspirin,2024-02-23,Emergency Room,MRI,severe condition,antibiotic,10,0,improved
+40,female,married,primary,none,dust,blood pressure medication,2024-04-05,Outpatient Clinic,Blood Test,moderate condition,none,3,0,stable
+69,female,single,primary,asthma,penicillin,none,2024-12-03,Radiology,MRI,healthy,pain reliever,4,1,stable
+82,male,widowed,tertiary,asthma,dust,blood pressure medication,2024-04-04,Inpatient Ward,MRI,healthy,antibiotic,9,1,stable
+60,male,married,secondary,diabetes,pollen,aspirin,2024-02-04,Laboratory,Surgery,severe condition,antihypertensive,7,1,worsened
+57,male,widowed,tertiary,asthma,peanuts,insulin,2024-12-03,Outpatient Clinic,X-Ray,moderate condition,pain reliever,6,1,improved
+69,female,single,primary,heart disease,penicillin,aspirin,2024-12-07,Emergency Room,MRI,healthy,pain reliever,7,0,stable
+28,female,married,tertiary,hypertension,dust,aspirin,2024-06-30,Outpatient Clinic,Ultrasound,moderate condition,none,9,1,worsened
+46,female,married,tertiary,none,dust,antidepressants,2024-03-15,Inpatient Ward,Blood Test,healthy,none,1,1,improved
+52,female,divorced,tertiary,diabetes,penicillin,antidepressants,2024-02-28,Radiology,X-Ray,healthy,antihypertensive,3,1,worsened
+53,male,widowed,primary,diabetes,penicillin,insulin,2024-04-22,Emergency Room,X-Ray,healthy,antibiotic,1,0,worsened
+80,male,single,tertiary,hypertension,none,aspirin,2024-10-04,Emergency Room,Ultrasound,healthy,antihypertensive,8,0,stable
+40,female,divorced,tertiary,asthma,none,none,2024-01-14,Inpatient Ward,X-Ray,moderate condition,antibiotic,8,0,worsened
+71,female,widowed,primary,diabetes,pollen,insulin,2024-06-11,Laboratory,Ultrasound,mild condition,antihypertensive,7,0,improved
+54,female,married,primary,asthma,peanuts,none,2024-12-03,Inpatient Ward,Ultrasound,mild condition,antibiotic,4,0,worsened
+70,male,married,tertiary,hypertension,peanuts,blood pressure medication,2024-10-11,Radiology,Ultrasound,moderate condition,pain reliever,5,1,improved
+82,female,married,primary,heart disease,penicillin,insulin,2024-05-31,Laboratory,MRI,moderate condition,pain reliever,1,1,stable
+81,male,widowed,primary,diabetes,none,none,2024-06-30,Emergency Room,X-Ray,healthy,antihypertensive,7,1,stable
+78,male,married,primary,hypertension,dust,none,2024-02-16,Laboratory,MRI,healthy,antibiotic,6,0,improved
+61,male,married,tertiary,asthma,none,none,2024-09-05,Inpatient Ward,Ultrasound,mild condition,pain reliever,9,0,worsened
+31,female,single,tertiary,diabetes,peanuts,aspirin,2024-07-19,Laboratory,X-Ray,mild condition,antibiotic,10,0,improved
+77,male,divorced,primary,heart disease,dust,aspirin,2024-04-13,Laboratory,CT Scan,mild condition,antibiotic,7,1,worsened
+18,female,widowed,secondary,diabetes,penicillin,aspirin,2024-12-01,Inpatient Ward,MRI,healthy,antihypertensive,2,1,worsened
+45,male,single,tertiary,none,penicillin,insulin,2024-04-27,Radiology,Ultrasound,moderate condition,none,4,0,worsened
+50,male,married,primary,asthma,none,antidepressants,2024-09-14,Emergency Room,X-Ray,healthy,none,1,0,worsened
+74,female,single,secondary,heart disease,peanuts,antidepressants,2024-05-25,Laboratory,MRI,moderate condition,none,2,0,worsened
+68,female,widowed,primary,none,none,antidepressants,2024-10-13,Emergency Room,X-Ray,severe condition,pain reliever,3,0,stable
+29,male,divorced,primary,none,dust,insulin,2024-08-18,Emergency Room,X-Ray,severe condition,antihypertensive,5,0,worsened
+47,female,married,primary,hypertension,none,none,2024-05-26,Emergency Room,Ultrasound,mild condition,none,9,1,worsened
+54,male,divorced,primary,hypertension,peanuts,insulin,2024-05-17,Emergency Room,X-Ray,mild condition,antibiotic,8,1,improved
+37,female,married,tertiary,heart disease,none,none,2024-11-27,Inpatient Ward,CT Scan,mild condition,pain reliever,2,1,improved
+37,female,single,secondary,diabetes,none,none,2024-06-11,Outpatient Clinic,Ultrasound,moderate condition,antibiotic,10,0,worsened
+81,male,single,tertiary,asthma,none,antidepressants,2024-06-17,Emergency Room,Ultrasound,mild condition,none,2,1,stable
+52,male,widowed,primary,none,pollen,aspirin,2024-01-05,Emergency Room,Ultrasound,severe condition,pain reliever,7,1,worsened
+46,female,divorced,secondary,none,peanuts,aspirin,2024-07-21,Outpatient Clinic,Surgery,healthy,antihypertensive,5,1,stable
+29,male,married,tertiary,hypertension,dust,none,2024-03-21,Laboratory,Ultrasound,severe condition,none,5,0,stable
+58,male,divorced,tertiary,none,none,aspirin,2024-08-31,Emergency Room,Surgery,mild condition,antihypertensive,2,0,stable
+67,female,divorced,secondary,heart disease,penicillin,none,2024-02-08,Outpatient Clinic,X-Ray,mild condition,pain reliever,2,1,worsened
+59,female,divorced,secondary,diabetes,penicillin,none,2024-09-10,Outpatient Clinic,MRI,moderate condition,none,10,0,worsened
+21,female,married,tertiary,asthma,pollen,aspirin,2024-09-25,Emergency Room,MRI,moderate condition,pain reliever,1,1,improved
+27,male,single,tertiary,asthma,none,blood pressure medication,2024-01-08,Laboratory,MRI,mild condition,pain reliever,8,1,stable
+55,female,married,primary,asthma,penicillin,blood pressure medication,2024-06-24,Laboratory,MRI,severe condition,antibiotic,5,1,worsened
+71,male,single,tertiary,asthma,none,blood pressure medication,2024-08-20,Inpatient Ward,X-Ray,mild condition,none,2,0,stable
+20,male,married,tertiary,asthma,none,none,2024-06-09,Laboratory,Surgery,moderate condition,none,5,0,improved
+32,female,married,primary,diabetes,dust,aspirin,2024-06-30,Radiology,Blood Test,severe condition,antihypertensive,7,0,improved
+67,female,widowed,secondary,asthma,pollen,insulin,2024-11-23,Laboratory,Surgery,healthy,pain reliever,7,0,stable
+22,female,widowed,primary,hypertension,pollen,aspirin,2024-04-17,Radiology,X-Ray,healthy,antibiotic,9,0,worsened
+61,male,single,primary,none,pollen,blood pressure medication,2024-09-18,Laboratory,X-Ray,moderate condition,none,4,0,improved
+85,male,widowed,primary,heart disease,penicillin,blood pressure medication,2024-08-16,Outpatient Clinic,Surgery,severe condition,antibiotic,3,1,stable
+18,female,married,primary,diabetes,peanuts,blood pressure medication,2024-08-13,Radiology,Ultrasound,healthy,pain reliever,8,1,worsened
+67,male,widowed,primary,none,penicillin,none,2024-06-29,Emergency Room,Blood Test,moderate condition,none,4,0,worsened
+42,male,married,secondary,diabetes,penicillin,aspirin,2024-10-11,Outpatient Clinic,Ultrasound,healthy,antihypertensive,5,1,stable
+19,male,widowed,primary,diabetes,peanuts,antidepressants,2024-12-24,Outpatient Clinic,Blood Test,mild condition,none,4,0,improved
+49,female,single,primary,hypertension,dust,insulin,2024-03-04,Inpatient Ward,CT Scan,moderate condition,antihypertensive,7,1,worsened
+28,female,married,tertiary,asthma,none,antidepressants,2024-08-08,Radiology,Ultrasound,moderate condition,pain reliever,4,1,worsened
+65,female,divorced,primary,diabetes,penicillin,none,2024-02-04,Emergency Room,CT Scan,severe condition,none,9,0,improved
+76,female,single,secondary,none,none,antidepressants,2024-12-01,Outpatient Clinic,Ultrasound,healthy,antibiotic,7,1,stable
+29,male,widowed,secondary,hypertension,peanuts,none,2024-06-28,Radiology,X-Ray,severe condition,pain reliever,4,1,stable
+66,male,single,tertiary,heart disease,none,insulin,2024-08-13,Radiology,MRI,healthy,none,7,1,stable
+64,male,single,primary,asthma,pollen,blood pressure medication,2024-06-03,Radiology,MRI,mild condition,antihypertensive,2,0,improved
+36,female,widowed,primary,none,none,blood pressure medication,2024-10-06,Outpatient Clinic,Ultrasound,mild condition,antibiotic,7,1,worsened
+37,male,married,secondary,asthma,pollen,aspirin,2024-07-25,Outpatient Clinic,MRI,severe condition,pain reliever,7,0,worsened
+34,male,widowed,tertiary,heart disease,pollen,none,2024-04-16,Radiology,MRI,mild condition,none,2,1,improved
+78,male,divorced,secondary,none,penicillin,insulin,2024-07-23,Radiology,Surgery,severe condition,antihypertensive,10,0,worsened
+50,female,single,primary,asthma,pollen,aspirin,2024-09-18,Outpatient Clinic,CT Scan,severe condition,pain reliever,7,0,stable
+41,female,divorced,tertiary,hypertension,pollen,blood pressure medication,2024-07-02,Inpatient Ward,Ultrasound,severe condition,antihypertensive,7,0,worsened
+82,male,married,tertiary,hypertension,none,aspirin,2024-09-19,Radiology,Ultrasound,healthy,antibiotic,9,0,worsened
+80,male,married,tertiary,heart disease,dust,none,2024-04-18,Outpatient Clinic,CT Scan,severe condition,none,5,1,stable
+32,male,divorced,primary,hypertension,pollen,blood pressure medication,2024-08-12,Inpatient Ward,Blood Test,healthy,none,3,0,improved
+36,female,widowed,tertiary,asthma,penicillin,aspirin,2024-01-16,Inpatient Ward,Surgery,severe condition,none,6,1,improved
+44,male,widowed,secondary,none,peanuts,none,2024-09-03,Radiology,Blood Test,severe condition,none,10,1,stable
+65,female,widowed,secondary,heart disease,penicillin,none,2024-09-16,Outpatient Clinic,Ultrasound,healthy,none,3,1,improved
+68,female,widowed,tertiary,asthma,none,none,2024-09-04,Emergency Room,MRI,moderate condition,none,7,1,stable
+68,male,married,primary,diabetes,pollen,aspirin,2024-03-31,Laboratory,Surgery,moderate condition,antibiotic,1,1,stable
+35,male,divorced,secondary,none,dust,aspirin,2024-04-05,Radiology,Surgery,mild condition,antihypertensive,4,1,worsened
+38,male,widowed,secondary,asthma,peanuts,blood pressure medication,2024-05-06,Emergency Room,X-Ray,severe condition,pain reliever,5,1,stable
+62,male,married,primary,none,pollen,antidepressants,2024-02-06,Radiology,Surgery,moderate condition,antibiotic,9,1,stable
+23,male,divorced,secondary,asthma,peanuts,none,2024-07-11,Laboratory,Blood Test,moderate condition,none,3,1,worsened
+53,female,widowed,primary,heart disease,pollen,blood pressure medication,2024-09-21,Laboratory,Ultrasound,severe condition,pain reliever,5,0,improved
+65,female,married,primary,heart disease,pollen,antidepressants,2024-07-29,Inpatient Ward,Ultrasound,moderate condition,antibiotic,8,0,improved
+54,male,single,tertiary,asthma,penicillin,blood pressure medication,2024-02-12,Outpatient Clinic,Blood Test,moderate condition,none,8,0,improved
+47,female,married,secondary,heart disease,none,none,2024-10-31,Emergency Room,Ultrasound,healthy,pain reliever,8,1,worsened
+60,female,widowed,primary,none,peanuts,none,2024-12-10,Emergency Room,Surgery,mild condition,pain reliever,6,0,improved
+36,female,single,primary,diabetes,peanuts,insulin,2024-03-14,Inpatient Ward,Ultrasound,severe condition,antihypertensive,3,1,worsened
+53,female,divorced,primary,asthma,peanuts,none,2024-03-15,Outpatient Clinic,Blood Test,healthy,antihypertensive,9,1,improved
+33,female,married,secondary,none,peanuts,aspirin,2024-03-28,Laboratory,Ultrasound,moderate condition,antihypertensive,4,1,improved
+41,male,divorced,tertiary,hypertension,peanuts,insulin,2024-05-30,Emergency Room,X-Ray,mild condition,antibiotic,5,0,worsened
+45,female,divorced,primary,none,pollen,aspirin,2024-06-29,Outpatient Clinic,X-Ray,moderate condition,pain reliever,8,0,improved
+45,female,married,primary,diabetes,none,insulin,2024-11-20,Inpatient Ward,Ultrasound,severe condition,antihypertensive,4,0,stable
+30,female,divorced,secondary,heart disease,peanuts,blood pressure medication,2024-11-03,Emergency Room,CT Scan,moderate condition,pain reliever,6,0,worsened
+39,female,married,tertiary,diabetes,pollen,none,2024-09-10,Inpatient Ward,Ultrasound,mild condition,antibiotic,10,0,stable
+79,female,widowed,secondary,diabetes,penicillin,aspirin,2024-10-16,Inpatient Ward,Blood Test,severe condition,none,8,0,worsened
+36,female,divorced,tertiary,asthma,dust,antidepressants,2024-07-03,Radiology,X-Ray,severe condition,antihypertensive,5,0,improved
+35,female,single,secondary,diabetes,peanuts,antidepressants,2024-06-23,Laboratory,X-Ray,mild condition,pain reliever,6,0,improved
+45,female,widowed,secondary,hypertension,dust,antidepressants,2024-12-19,Outpatient Clinic,Ultrasound,healthy,none,4,1,stable
+76,male,married,secondary,none,penicillin,aspirin,2024-10-03,Outpatient Clinic,Blood Test,healthy,pain reliever,10,1,improved
+64,female,widowed,primary,heart disease,pollen,insulin,2024-08-17,Emergency Room,MRI,healthy,antihypertensive,8,1,stable
+36,female,single,tertiary,none,dust,blood pressure medication,2024-04-28,Outpatient Clinic,X-Ray,mild condition,pain reliever,10,0,worsened
+45,male,widowed,tertiary,hypertension,peanuts,insulin,2024-05-14,Radiology,CT Scan,severe condition,antibiotic,3,0,stable
+75,male,single,tertiary,asthma,penicillin,aspirin,2024-05-06,Emergency Room,CT Scan,healthy,antibiotic,3,1,worsened
+72,male,divorced,secondary,diabetes,none,insulin,2024-12-01,Inpatient Ward,Blood Test,moderate condition,antihypertensive,7,1,stable
+46,female,widowed,secondary,diabetes,penicillin,insulin,2024-02-21,Laboratory,MRI,moderate condition,none,8,0,stable
+30,female,married,primary,asthma,dust,aspirin,2024-04-14,Emergency Room,X-Ray,severe condition,antihypertensive,3,0,improved
+84,female,widowed,tertiary,heart disease,pollen,aspirin,2024-10-06,Outpatient Clinic,CT Scan,severe condition,antihypertensive,2,1,worsened
+51,female,widowed,primary,none,none,antidepressants,2024-02-14,Laboratory,MRI,healthy,pain reliever,3,0,worsened
+78,male,married,secondary,diabetes,dust,aspirin,2024-12-02,Emergency Room,Ultrasound,mild condition,pain reliever,2,1,worsened
+19,male,widowed,primary,diabetes,dust,insulin,2024-07-13,Radiology,Surgery,healthy,none,4,0,improved
+56,male,married,secondary,none,pollen,insulin,2024-08-26,Radiology,X-Ray,mild condition,pain reliever,10,0,improved
+40,female,married,tertiary,none,dust,blood pressure medication,2024-08-16,Laboratory,X-Ray,severe condition,antihypertensive,10,0,worsened
+45,male,married,tertiary,heart disease,dust,none,2024-08-12,Outpatient Clinic,CT Scan,moderate condition,pain reliever,8,1,stable
+41,female,widowed,primary,hypertension,dust,insulin,2024-12-11,Inpatient Ward,Blood Test,mild condition,none,2,0,stable
+32,female,single,secondary,heart disease,dust,antidepressants,2024-02-23,Emergency Room,Ultrasound,healthy,antihypertensive,1,1,stable
+28,female,married,primary,hypertension,dust,insulin,2024-07-04,Laboratory,Ultrasound,healthy,antihypertensive,5,1,improved
+26,male,divorced,primary,none,peanuts,aspirin,2024-08-27,Outpatient Clinic,X-Ray,healthy,pain reliever,7,0,worsened
+59,male,divorced,primary,diabetes,none,none,2024-07-20,Laboratory,CT Scan,severe condition,pain reliever,6,1,stable
+42,female,divorced,secondary,asthma,none,none,2024-01-18,Radiology,Blood Test,mild condition,pain reliever,3,0,improved
+50,male,married,tertiary,heart disease,peanuts,blood pressure medication,2024-01-12,Laboratory,Ultrasound,severe condition,pain reliever,1,1,stable
+64,male,single,primary,asthma,none,none,2024-08-13,Radiology,MRI,severe condition,antibiotic,2,1,improved
+32,female,single,tertiary,diabetes,penicillin,none,2024-11-02,Radiology,X-Ray,severe condition,antibiotic,6,1,improved
+65,female,single,secondary,diabetes,dust,insulin,2024-06-16,Outpatient Clinic,Ultrasound,mild condition,antihypertensive,8,1,improved
+21,male,widowed,tertiary,none,none,none,2024-03-25,Radiology,X-Ray,healthy,none,1,0,improved
+21,male,divorced,secondary,hypertension,pollen,antidepressants,2024-08-19,Outpatient Clinic,CT Scan,severe condition,antibiotic,7,1,worsened
+56,male,divorced,secondary,asthma,none,antidepressants,2024-09-06,Outpatient Clinic,Ultrasound,moderate condition,none,10,1,stable
+41,female,divorced,primary,hypertension,peanuts,aspirin,2024-03-06,Inpatient Ward,MRI,mild condition,antibiotic,1,1,stable
+27,male,widowed,secondary,diabetes,dust,insulin,2024-09-14,Radiology,MRI,severe condition,antihypertensive,1,0,stable
+39,male,divorced,primary,heart disease,penicillin,antidepressants,2024-02-20,Emergency Room,Surgery,mild condition,none,4,1,worsened
+38,female,divorced,secondary,hypertension,penicillin,insulin,2024-03-17,Radiology,Ultrasound,severe condition,none,5,1,stable
+42,female,widowed,secondary,heart disease,dust,blood pressure medication,2024-04-30,Emergency Room,MRI,severe condition,antihypertensive,2,1,improved
+53,female,widowed,secondary,hypertension,peanuts,insulin,2024-02-14,Emergency Room,MRI,healthy,pain reliever,9,1,improved
+68,male,divorced,tertiary,heart disease,dust,insulin,2024-10-24,Emergency Room,Blood Test,healthy,antihypertensive,8,0,worsened
+49,male,single,secondary,none,pollen,aspirin,2024-05-06,Radiology,Blood Test,mild condition,antibiotic,4,1,improved
+60,male,divorced,secondary,diabetes,peanuts,blood pressure medication,2024-09-24,Outpatient Clinic,CT Scan,severe condition,none,9,1,stable
+46,female,widowed,primary,heart disease,dust,none,2024-03-05,Emergency Room,X-Ray,mild condition,antibiotic,7,1,stable
+50,female,divorced,secondary,asthma,none,aspirin,2024-07-29,Outpatient Clinic,CT Scan,mild condition,antihypertensive,3,0,improved
+81,female,divorced,primary,asthma,pollen,blood pressure medication,2024-12-11,Radiology,X-Ray,healthy,pain reliever,8,0,stable
+64,male,widowed,secondary,none,peanuts,aspirin,2024-08-12,Outpatient Clinic,MRI,severe condition,none,9,1,worsened
+39,female,divorced,primary,asthma,pollen,insulin,2024-09-04,Laboratory,X-Ray,severe condition,antibiotic,10,0,stable
+35,female,widowed,tertiary,asthma,penicillin,antidepressants,2024-03-13,Emergency Room,Surgery,healthy,pain reliever,5,1,worsened
+51,male,married,primary,hypertension,dust,blood pressure medication,2024-12-22,Emergency Room,Blood Test,moderate condition,antihypertensive,3,1,stable
+71,male,widowed,secondary,asthma,dust,blood pressure medication,2024-01-05,Laboratory,MRI,severe condition,antihypertensive,10,0,worsened
+50,female,divorced,tertiary,heart disease,pollen,aspirin,2024-04-05,Inpatient Ward,Blood Test,moderate condition,antihypertensive,7,0,improved
+43,male,married,primary,asthma,dust,antidepressants,2024-02-19,Inpatient Ward,Ultrasound,mild condition,none,1,0,worsened
+34,female,widowed,tertiary,asthma,none,blood pressure medication,2024-03-22,Radiology,Blood Test,severe condition,antihypertensive,3,0,stable
+29,female,widowed,tertiary,asthma,dust,insulin,2024-11-20,Outpatient Clinic,X-Ray,moderate condition,none,7,0,worsened
+58,male,widowed,secondary,asthma,none,aspirin,2024-11-22,Emergency Room,X-Ray,healthy,pain reliever,6,0,improved
+40,male,married,primary,none,peanuts,insulin,2024-02-08,Laboratory,MRI,moderate condition,pain reliever,8,0,improved
+60,female,divorced,secondary,heart disease,penicillin,none,2024-01-24,Radiology,CT Scan,mild condition,antihypertensive,3,0,stable
+53,male,divorced,primary,heart disease,peanuts,aspirin,2024-10-31,Laboratory,Ultrasound,moderate condition,pain reliever,6,1,worsened
+43,male,single,secondary,none,pollen,insulin,2024-04-26,Outpatient Clinic,CT Scan,healthy,none,8,1,improved
+31,male,divorced,secondary,none,peanuts,antidepressants,2024-08-27,Emergency Room,MRI,moderate condition,none,5,0,improved
+68,male,divorced,tertiary,none,peanuts,none,2024-08-01,Inpatient Ward,CT Scan,mild condition,none,1,1,improved
+39,female,married,tertiary,none,penicillin,none,2024-04-02,Inpatient Ward,X-Ray,severe condition,antibiotic,3,0,worsened
+26,female,divorced,tertiary,none,penicillin,blood pressure medication,2024-01-19,Emergency Room,Blood Test,moderate condition,antihypertensive,10,1,improved
+59,female,divorced,secondary,asthma,pollen,antidepressants,2024-12-28,Laboratory,CT Scan,moderate condition,none,5,1,worsened
+65,male,divorced,primary,asthma,penicillin,blood pressure medication,2024-10-08,Emergency Room,Ultrasound,mild condition,pain reliever,4,0,improved
+63,female,married,tertiary,none,pollen,antidepressants,2024-10-30,Inpatient Ward,CT Scan,mild condition,antibiotic,4,1,improved
+52,female,married,tertiary,heart disease,pollen,antidepressants,2024-04-05,Emergency Room,Blood Test,severe condition,none,5,0,stable
+70,male,single,tertiary,heart disease,dust,insulin,2024-09-18,Laboratory,CT Scan,moderate condition,antibiotic,7,1,worsened
+66,male,widowed,secondary,diabetes,peanuts,insulin,2024-06-29,Laboratory,Ultrasound,healthy,none,4,0,improved
+58,male,widowed,tertiary,asthma,dust,none,2024-04-14,Radiology,MRI,mild condition,antibiotic,7,0,improved
+41,female,single,primary,heart disease,penicillin,antidepressants,2024-02-23,Inpatient Ward,Blood Test,moderate condition,pain reliever,1,0,worsened
+69,female,single,tertiary,diabetes,penicillin,none,2024-10-24,Outpatient Clinic,MRI,moderate condition,none,2,1,stable
+45,female,single,primary,heart disease,none,aspirin,2024-12-15,Radiology,Surgery,moderate condition,antihypertensive,6,1,improved
+85,female,married,tertiary,asthma,peanuts,none,2024-06-09,Radiology,Ultrasound,healthy,antibiotic,1,0,improved
+62,female,divorced,secondary,hypertension,dust,aspirin,2024-12-25,Outpatient Clinic,MRI,healthy,none,9,0,worsened
+51,male,divorced,secondary,none,none,none,2024-10-29,Inpatient Ward,Ultrasound,moderate condition,antibiotic,2,0,stable
+75,female,married,secondary,heart disease,none,blood pressure medication,2024-02-04,Emergency Room,MRI,mild condition,antibiotic,8,0,improved
+40,female,divorced,tertiary,hypertension,penicillin,blood pressure medication,2024-05-19,Inpatient Ward,Ultrasound,mild condition,pain reliever,7,1,worsened
+67,female,married,tertiary,diabetes,penicillin,antidepressants,2024-08-05,Emergency Room,X-Ray,severe condition,antibiotic,5,0,stable
+44,male,single,secondary,heart disease,pollen,aspirin,2024-02-13,Emergency Room,Ultrasound,healthy,pain reliever,2,1,improved
+73,male,divorced,tertiary,hypertension,pollen,none,2024-06-06,Emergency Room,MRI,severe condition,none,5,1,improved
+51,male,divorced,secondary,diabetes,peanuts,blood pressure medication,2024-03-29,Inpatient Ward,Ultrasound,severe condition,pain reliever,7,1,stable
+69,male,single,tertiary,asthma,penicillin,insulin,2024-11-13,Laboratory,Surgery,healthy,antibiotic,3,1,stable
+19,male,single,tertiary,heart disease,peanuts,blood pressure medication,2024-02-15,Outpatient Clinic,Surgery,moderate condition,none,6,0,worsened
+64,male,single,primary,heart disease,penicillin,antidepressants,2024-12-30,Outpatient Clinic,MRI,severe condition,pain reliever,6,0,worsened
+21,male,married,tertiary,diabetes,dust,antidepressants,2024-01-21,Emergency Room,X-Ray,moderate condition,none,3,0,stable
+23,male,single,primary,hypertension,pollen,aspirin,2024-05-06,Laboratory,Surgery,severe condition,antibiotic,2,0,stable
+26,male,widowed,secondary,heart disease,dust,insulin,2024-11-28,Outpatient Clinic,Ultrasound,moderate condition,pain reliever,2,1,improved
+21,female,divorced,tertiary,hypertension,peanuts,insulin,2024-08-15,Radiology,Surgery,healthy,pain reliever,2,1,improved
+70,male,divorced,tertiary,heart disease,penicillin,blood pressure medication,2024-04-25,Emergency Room,X-Ray,moderate condition,none,8,1,worsened
+22,female,widowed,secondary,heart disease,pollen,antidepressants,2024-06-01,Emergency Room,MRI,severe condition,antibiotic,1,1,worsened
+31,male,divorced,primary,heart disease,none,antidepressants,2024-06-08,Laboratory,X-Ray,moderate condition,antihypertensive,1,1,worsened
+40,male,married,tertiary,asthma,dust,none,2024-03-06,Outpatient Clinic,Surgery,mild condition,antibiotic,9,1,stable
+30,male,single,primary,asthma,peanuts,aspirin,2024-01-11,Inpatient Ward,X-Ray,severe condition,antihypertensive,7,1,stable
+34,male,married,secondary,hypertension,penicillin,blood pressure medication,2024-02-14,Inpatient Ward,Surgery,mild condition,none,9,1,stable
+49,female,single,tertiary,hypertension,penicillin,insulin,2024-04-04,Laboratory,Surgery,moderate condition,antibiotic,3,1,stable
+47,male,divorced,secondary,hypertension,penicillin,blood pressure medication,2024-05-14,Radiology,MRI,healthy,pain reliever,3,0,stable
+28,male,widowed,primary,none,none,none,2024-09-26,Radiology,Ultrasound,mild condition,antibiotic,7,1,improved
+81,female,single,secondary,none,none,aspirin,2024-12-13,Inpatient Ward,CT Scan,severe condition,antibiotic,2,1,improved
+49,female,divorced,tertiary,none,pollen,none,2024-12-15,Emergency Room,MRI,mild condition,antihypertensive,5,0,improved
+28,male,single,primary,asthma,dust,insulin,2024-11-23,Emergency Room,Ultrasound,moderate condition,pain reliever,10,1,improved
+36,male,widowed,tertiary,none,dust,aspirin,2024-04-21,Inpatient Ward,CT Scan,moderate condition,antihypertensive,3,0,stable
+66,male,widowed,tertiary,diabetes,penicillin,antidepressants,2024-12-10,Radiology,X-Ray,healthy,antibiotic,8,0,worsened
+36,female,divorced,secondary,heart disease,pollen,insulin,2024-04-14,Laboratory,CT Scan,severe condition,antihypertensive,10,0,improved
+65,female,widowed,primary,hypertension,penicillin,aspirin,2024-08-21,Outpatient Clinic,Ultrasound,moderate condition,none,10,0,stable
+61,male,divorced,tertiary,hypertension,dust,aspirin,2024-03-17,Inpatient Ward,Ultrasound,healthy,antibiotic,1,0,stable
+75,male,married,secondary,none,none,aspirin,2024-06-16,Radiology,MRI,mild condition,none,9,1,stable
+59,female,widowed,secondary,hypertension,penicillin,antidepressants,2024-10-29,Emergency Room,Blood Test,mild condition,none,4,1,worsened
+85,male,single,tertiary,asthma,dust,antidepressants,2024-10-16,Outpatient Clinic,CT Scan,healthy,pain reliever,5,0,worsened
+43,male,divorced,secondary,heart disease,penicillin,antidepressants,2024-08-06,Inpatient Ward,CT Scan,moderate condition,antibiotic,6,1,worsened
+82,male,widowed,tertiary,asthma,peanuts,antidepressants,2024-07-15,Laboratory,X-Ray,healthy,pain reliever,6,0,stable
+52,female,divorced,primary,none,none,none,2024-04-23,Inpatient Ward,Ultrasound,healthy,none,1,1,stable
+27,male,divorced,secondary,hypertension,dust,antidepressants,2024-01-03,Emergency Room,Ultrasound,healthy,pain reliever,4,0,stable
+49,female,single,tertiary,diabetes,dust,antidepressants,2024-07-03,Outpatient Clinic,MRI,moderate condition,antibiotic,9,1,improved
+64,male,married,tertiary,heart disease,pollen,antidepressants,2024-09-24,Radiology,Surgery,moderate condition,pain reliever,2,0,stable
+56,male,widowed,primary,heart disease,penicillin,antidepressants,2024-01-21,Inpatient Ward,Surgery,mild condition,none,3,1,improved
+50,male,married,primary,none,none,antidepressants,2024-02-10,Laboratory,Surgery,healthy,antibiotic,5,1,stable
+79,female,single,tertiary,asthma,penicillin,none,2024-07-01,Outpatient Clinic,Blood Test,moderate condition,antibiotic,4,1,improved
+82,male,divorced,tertiary,none,peanuts,antidepressants,2024-05-06,Inpatient Ward,Blood Test,healthy,antibiotic,10,0,improved
+50,male,married,tertiary,hypertension,pollen,aspirin,2024-05-06,Outpatient Clinic,CT Scan,severe condition,antihypertensive,2,0,worsened
+73,male,widowed,secondary,none,none,aspirin,2024-09-14,Emergency Room,Ultrasound,mild condition,antibiotic,8,1,worsened
+78,female,single,tertiary,diabetes,penicillin,blood pressure medication,2024-09-17,Laboratory,Blood Test,moderate condition,antibiotic,9,0,stable
+43,male,divorced,primary,hypertension,none,none,2024-09-08,Outpatient Clinic,MRI,moderate condition,pain reliever,9,0,stable
+68,female,single,secondary,hypertension,peanuts,antidepressants,2024-04-28,Laboratory,MRI,mild condition,antibiotic,9,0,worsened
+44,male,single,tertiary,heart disease,penicillin,insulin,2024-04-07,Outpatient Clinic,Surgery,severe condition,none,3,0,stable
+55,female,single,secondary,asthma,dust,none,2024-03-07,Laboratory,CT Scan,severe condition,none,5,0,worsened
+81,male,married,secondary,heart disease,pollen,insulin,2024-02-04,Inpatient Ward,X-Ray,moderate condition,none,4,0,worsened
+51,female,divorced,secondary,asthma,dust,none,2024-07-26,Emergency Room,Surgery,healthy,none,7,0,improved
+81,male,widowed,secondary,asthma,penicillin,antidepressants,2024-06-01,Laboratory,X-Ray,mild condition,antibiotic,7,0,improved
+32,female,single,secondary,asthma,peanuts,insulin,2024-04-24,Radiology,X-Ray,moderate condition,none,2,0,worsened
+20,male,widowed,primary,asthma,peanuts,blood pressure medication,2024-05-27,Inpatient Ward,Surgery,mild condition,antihypertensive,7,0,stable
+23,female,divorced,tertiary,asthma,dust,none,2024-03-31,Outpatient Clinic,CT Scan,healthy,antibiotic,2,1,improved
+60,female,married,primary,heart disease,penicillin,blood pressure medication,2024-06-07,Emergency Room,MRI,severe condition,none,4,0,worsened
+50,female,widowed,secondary,hypertension,pollen,insulin,2024-12-30,Emergency Room,MRI,healthy,pain reliever,1,1,improved
+68,female,widowed,primary,heart disease,none,blood pressure medication,2024-11-01,Emergency Room,Ultrasound,severe condition,none,8,1,improved
+25,male,divorced,secondary,none,dust,insulin,2024-03-07,Laboratory,Ultrasound,healthy,none,6,0,stable
+77,male,widowed,secondary,hypertension,penicillin,blood pressure medication,2024-07-16,Radiology,Ultrasound,moderate condition,none,1,1,improved
+77,male,single,primary,none,dust,insulin,2024-01-12,Outpatient Clinic,Ultrasound,healthy,antibiotic,6,0,worsened
+67,male,divorced,primary,heart disease,none,antidepressants,2024-10-16,Outpatient Clinic,Blood Test,healthy,pain reliever,2,0,improved
+64,male,divorced,secondary,hypertension,penicillin,none,2024-04-08,Outpatient Clinic,Blood Test,severe condition,antihypertensive,5,1,worsened
+71,female,single,secondary,diabetes,pollen,blood pressure medication,2024-09-21,Laboratory,Surgery,healthy,antihypertensive,8,0,stable
+37,male,married,primary,heart disease,pollen,none,2024-09-30,Inpatient Ward,MRI,severe condition,antihypertensive,9,1,worsened
+47,female,widowed,primary,diabetes,none,none,2024-07-15,Laboratory,X-Ray,severe condition,pain reliever,8,1,improved
+64,female,divorced,primary,asthma,peanuts,none,2024-03-17,Inpatient Ward,Surgery,mild condition,pain reliever,4,0,worsened
+51,female,married,secondary,hypertension,none,blood pressure medication,2024-04-05,Laboratory,CT Scan,mild condition,antibiotic,3,1,stable
+61,male,widowed,primary,none,none,none,2024-10-27,Outpatient Clinic,Surgery,moderate condition,antibiotic,6,1,improved
+25,female,single,secondary,heart disease,peanuts,antidepressants,2024-06-15,Emergency Room,Surgery,moderate condition,antibiotic,5,0,worsened
+20,female,widowed,primary,hypertension,peanuts,aspirin,2024-06-29,Inpatient Ward,Surgery,severe condition,antihypertensive,4,1,improved
+25,female,single,primary,hypertension,none,none,2024-10-07,Radiology,Blood Test,mild condition,antibiotic,5,1,worsened
+28,male,married,primary,asthma,penicillin,insulin,2024-09-19,Laboratory,Blood Test,mild condition,none,2,0,improved
+47,female,married,primary,none,penicillin,insulin,2024-01-06,Radiology,CT Scan,severe condition,antihypertensive,5,0,stable
+34,male,married,secondary,hypertension,penicillin,insulin,2024-10-06,Outpatient Clinic,CT Scan,severe condition,antibiotic,10,0,stable
+62,female,divorced,secondary,asthma,peanuts,antidepressants,2024-11-10,Emergency Room,MRI,mild condition,pain reliever,4,0,improved
+63,male,divorced,primary,diabetes,none,none,2024-02-23,Emergency Room,Blood Test,moderate condition,pain reliever,7,1,improved
+69,male,widowed,primary,heart disease,dust,insulin,2024-01-28,Outpatient Clinic,Ultrasound,healthy,antibiotic,5,0,stable
+61,female,single,tertiary,heart disease,pollen,none,2024-01-09,Inpatient Ward,X-Ray,severe condition,antibiotic,1,1,stable
+58,male,widowed,tertiary,asthma,penicillin,aspirin,2024-10-07,Radiology,MRI,moderate condition,antibiotic,5,0,stable
+44,male,divorced,tertiary,heart disease,dust,aspirin,2024-08-03,Laboratory,CT Scan,severe condition,antihypertensive,8,1,stable
+66,female,divorced,tertiary,diabetes,none,none,2024-05-16,Emergency Room,Blood Test,healthy,pain reliever,6,0,stable
+29,female,widowed,secondary,heart disease,peanuts,blood pressure medication,2024-03-12,Inpatient Ward,Ultrasound,severe condition,pain reliever,7,1,stable
+24,male,single,primary,none,peanuts,antidepressants,2024-03-15,Laboratory,CT Scan,healthy,none,3,1,stable
+19,male,married,tertiary,asthma,dust,antidepressants,2024-10-15,Inpatient Ward,Surgery,healthy,antihypertensive,3,0,worsened
+51,male,single,primary,diabetes,peanuts,none,2024-02-27,Emergency Room,MRI,severe condition,antibiotic,10,0,worsened
+56,female,married,primary,none,none,antidepressants,2024-04-16,Inpatient Ward,CT Scan,severe condition,pain reliever,6,0,worsened
+22,male,divorced,secondary,diabetes,pollen,antidepressants,2024-03-13,Emergency Room,X-Ray,healthy,pain reliever,1,1,stable
+63,male,single,secondary,heart disease,penicillin,aspirin,2024-06-05,Emergency Room,Blood Test,healthy,none,6,1,stable
+66,male,divorced,primary,asthma,pollen,none,2024-03-31,Radiology,CT Scan,moderate condition,pain reliever,4,1,improved
+85,female,married,primary,hypertension,pollen,blood pressure medication,2024-04-09,Laboratory,CT Scan,healthy,none,1,0,worsened
+47,female,divorced,secondary,heart disease,dust,insulin,2024-11-24,Laboratory,Surgery,healthy,pain reliever,9,1,improved
+23,male,divorced,primary,diabetes,dust,aspirin,2024-01-05,Outpatient Clinic,Ultrasound,healthy,antihypertensive,8,1,stable
+70,female,married,secondary,asthma,penicillin,insulin,2024-12-19,Outpatient Clinic,Blood Test,moderate condition,none,9,0,improved
+75,female,widowed,primary,diabetes,none,aspirin,2024-06-25,Radiology,Ultrasound,moderate condition,none,4,0,stable
+26,male,divorced,primary,none,pollen,antidepressants,2024-02-09,Outpatient Clinic,MRI,mild condition,pain reliever,3,1,improved
+80,female,single,secondary,hypertension,penicillin,blood pressure medication,2024-03-15,Outpatient Clinic,X-Ray,healthy,antihypertensive,6,0,worsened
+54,male,divorced,primary,hypertension,penicillin,blood pressure medication,2024-12-23,Radiology,Blood Test,mild condition,pain reliever,1,0,stable
+52,male,married,tertiary,hypertension,dust,antidepressants,2024-05-11,Radiology,X-Ray,healthy,antihypertensive,3,1,stable
+54,male,widowed,secondary,diabetes,penicillin,none,2024-06-29,Outpatient Clinic,X-Ray,healthy,pain reliever,8,1,improved
+84,female,single,primary,diabetes,none,blood pressure medication,2024-05-10,Laboratory,Surgery,healthy,antihypertensive,3,0,stable
+57,female,divorced,secondary,hypertension,penicillin,insulin,2024-08-26,Laboratory,Ultrasound,mild condition,none,2,1,stable
+48,female,married,primary,diabetes,dust,antidepressants,2024-10-22,Inpatient Ward,Surgery,healthy,antibiotic,3,0,worsened
+83,female,widowed,primary,hypertension,dust,antidepressants,2024-08-30,Outpatient Clinic,X-Ray,healthy,antihypertensive,8,0,improved
+58,male,single,primary,heart disease,none,insulin,2024-07-13,Inpatient Ward,CT Scan,healthy,antibiotic,9,0,improved
+54,female,single,primary,diabetes,none,none,2024-01-10,Outpatient Clinic,MRI,healthy,antibiotic,7,0,worsened
+53,female,widowed,primary,asthma,dust,aspirin,2024-06-05,Radiology,Ultrasound,severe condition,none,4,0,worsened
+19,male,single,primary,asthma,penicillin,none,2024-05-27,Radiology,MRI,moderate condition,none,3,1,worsened
+51,male,single,tertiary,hypertension,penicillin,aspirin,2024-01-28,Inpatient Ward,Surgery,mild condition,none,6,0,worsened
+66,female,divorced,secondary,heart disease,penicillin,insulin,2024-03-18,Radiology,X-Ray,mild condition,pain reliever,3,0,improved
+45,male,married,tertiary,asthma,dust,aspirin,2024-10-30,Radiology,Surgery,severe condition,antihypertensive,3,1,improved
+65,female,widowed,primary,hypertension,pollen,none,2024-04-20,Emergency Room,Ultrasound,moderate condition,none,7,0,stable
+67,female,single,secondary,none,dust,aspirin,2024-07-18,Inpatient Ward,CT Scan,mild condition,none,4,1,stable
+71,male,single,tertiary,asthma,none,antidepressants,2024-07-18,Inpatient Ward,Ultrasound,mild condition,pain reliever,6,1,improved
+39,female,single,primary,diabetes,penicillin,none,2024-09-24,Laboratory,Ultrasound,moderate condition,antihypertensive,1,0,stable
+61,female,married,primary,asthma,peanuts,insulin,2024-05-02,Emergency Room,Surgery,severe condition,none,5,0,improved
+56,female,widowed,secondary,asthma,dust,insulin,2024-08-10,Radiology,Blood Test,severe condition,none,5,0,worsened
+63,male,widowed,secondary,diabetes,none,blood pressure medication,2024-03-04,Outpatient Clinic,Ultrasound,severe condition,none,10,1,improved
+46,female,single,primary,diabetes,peanuts,insulin,2024-04-27,Laboratory,CT Scan,moderate condition,antihypertensive,6,1,improved
+22,female,single,secondary,diabetes,peanuts,insulin,2024-09-06,Emergency Room,X-Ray,mild condition,pain reliever,5,0,stable
+23,male,married,secondary,asthma,penicillin,antidepressants,2024-03-12,Emergency Room,Blood Test,healthy,none,6,1,improved
+50,female,married,tertiary,diabetes,peanuts,aspirin,2024-06-04,Laboratory,MRI,healthy,none,6,0,improved
+64,female,single,tertiary,diabetes,pollen,blood pressure medication,2024-10-24,Radiology,CT Scan,moderate condition,antihypertensive,5,0,improved
+56,female,widowed,primary,hypertension,pollen,antidepressants,2024-02-21,Inpatient Ward,Ultrasound,moderate condition,pain reliever,1,0,worsened
+58,female,widowed,tertiary,asthma,penicillin,antidepressants,2024-05-28,Outpatient Clinic,Ultrasound,severe condition,none,2,1,worsened
+71,female,widowed,secondary,heart disease,penicillin,antidepressants,2024-02-07,Inpatient Ward,Blood Test,severe condition,antihypertensive,1,0,worsened
+44,female,widowed,secondary,none,pollen,none,2024-02-18,Inpatient Ward,MRI,severe condition,none,8,1,improved
+24,female,married,secondary,hypertension,dust,antidepressants,2024-05-07,Emergency Room,Surgery,severe condition,antibiotic,6,1,worsened
+29,male,married,secondary,hypertension,peanuts,insulin,2024-10-05,Outpatient Clinic,X-Ray,severe condition,none,4,0,improved
+43,male,divorced,secondary,none,dust,none,2024-08-24,Emergency Room,CT Scan,moderate condition,pain reliever,8,1,stable
+35,female,single,secondary,hypertension,pollen,antidepressants,2024-06-10,Outpatient Clinic,Blood Test,mild condition,pain reliever,9,1,worsened
+72,male,single,tertiary,none,peanuts,none,2024-12-30,Laboratory,Ultrasound,moderate condition,pain reliever,1,0,improved
+45,female,married,primary,heart disease,none,antidepressants,2024-05-15,Emergency Room,MRI,healthy,none,5,0,stable
+67,female,married,secondary,diabetes,none,insulin,2024-03-17,Outpatient Clinic,X-Ray,severe condition,none,8,1,worsened
+20,male,divorced,secondary,heart disease,peanuts,aspirin,2024-04-06,Emergency Room,Blood Test,moderate condition,pain reliever,1,1,improved
+63,male,widowed,tertiary,heart disease,peanuts,aspirin,2024-03-15,Radiology,CT Scan,severe condition,antihypertensive,2,0,stable
+75,male,divorced,secondary,hypertension,dust,blood pressure medication,2024-08-06,Radiology,Surgery,mild condition,pain reliever,9,0,improved
+61,male,married,secondary,hypertension,none,insulin,2024-07-14,Outpatient Clinic,CT Scan,mild condition,antibiotic,3,1,worsened
+36,female,married,tertiary,asthma,dust,aspirin,2024-06-28,Laboratory,Blood Test,healthy,pain reliever,4,1,worsened
+63,female,married,primary,hypertension,peanuts,blood pressure medication,2024-03-09,Radiology,MRI,mild condition,antihypertensive,4,0,stable
+47,female,married,primary,hypertension,none,none,2024-06-17,Emergency Room,Blood Test,mild condition,antibiotic,9,0,improved
+82,female,single,secondary,none,peanuts,none,2024-03-06,Emergency Room,CT Scan,mild condition,none,9,0,stable
+56,female,married,primary,hypertension,penicillin,antidepressants,2024-03-27,Emergency Room,Blood Test,moderate condition,pain reliever,4,1,stable
+48,female,divorced,secondary,hypertension,pollen,blood pressure medication,2024-05-27,Laboratory,MRI,healthy,pain reliever,7,1,improved
+83,female,divorced,primary,heart disease,none,insulin,2024-01-30,Radiology,Blood Test,moderate condition,none,2,1,improved
+60,male,married,secondary,asthma,none,antidepressants,2024-05-31,Radiology,X-Ray,severe condition,none,6,1,worsened
+41,male,widowed,secondary,hypertension,peanuts,blood pressure medication,2024-02-22,Radiology,X-Ray,healthy,antihypertensive,6,1,improved
+76,female,married,secondary,hypertension,none,insulin,2024-08-06,Laboratory,Ultrasound,mild condition,pain reliever,4,1,stable
+66,female,married,secondary,asthma,none,blood pressure medication,2024-02-29,Emergency Room,Blood Test,moderate condition,antibiotic,10,0,worsened
+45,male,single,primary,heart disease,none,insulin,2024-09-29,Inpatient Ward,Surgery,healthy,pain reliever,9,1,stable
+45,female,divorced,secondary,heart disease,pollen,none,2024-05-22,Radiology,MRI,moderate condition,antibiotic,3,0,stable
+34,male,single,secondary,diabetes,penicillin,insulin,2024-02-10,Laboratory,Surgery,mild condition,antibiotic,2,0,stable
+35,female,widowed,secondary,diabetes,penicillin,insulin,2024-05-14,Outpatient Clinic,Surgery,severe condition,none,3,1,stable
+39,female,divorced,tertiary,diabetes,peanuts,insulin,2024-08-13,Outpatient Clinic,Ultrasound,moderate condition,pain reliever,9,0,worsened
+48,female,married,tertiary,hypertension,peanuts,none,2024-09-10,Laboratory,MRI,moderate condition,antibiotic,2,1,worsened
+50,female,married,secondary,heart disease,pollen,blood pressure medication,2024-08-10,Radiology,CT Scan,healthy,antibiotic,6,0,stable
+37,male,divorced,primary,hypertension,pollen,none,2024-07-13,Radiology,MRI,moderate condition,antibiotic,3,0,worsened
+27,male,divorced,tertiary,asthma,dust,antidepressants,2024-06-26,Radiology,X-Ray,moderate condition,pain reliever,4,0,improved
+41,male,single,tertiary,diabetes,dust,blood pressure medication,2024-10-19,Inpatient Ward,CT Scan,healthy,antihypertensive,5,0,stable
+56,female,divorced,primary,heart disease,pollen,antidepressants,2024-04-09,Emergency Room,Blood Test,moderate condition,none,4,0,worsened
+74,male,single,tertiary,asthma,none,blood pressure medication,2024-12-04,Outpatient Clinic,Ultrasound,healthy,pain reliever,3,0,stable
+74,female,divorced,secondary,none,penicillin,aspirin,2024-05-26,Laboratory,MRI,mild condition,none,7,1,stable
+45,female,widowed,tertiary,asthma,pollen,antidepressants,2024-08-28,Radiology,CT Scan,healthy,antibiotic,3,0,worsened
+18,female,widowed,tertiary,diabetes,none,antidepressants,2024-08-16,Emergency Room,CT Scan,moderate condition,antihypertensive,3,1,improved
+74,male,widowed,tertiary,diabetes,none,insulin,2024-05-23,Inpatient Ward,Blood Test,moderate condition,antibiotic,4,1,worsened
+47,male,divorced,tertiary,hypertension,none,antidepressants,2024-03-21,Laboratory,Surgery,severe condition,antihypertensive,9,1,worsened
+27,male,divorced,primary,asthma,dust,blood pressure medication,2024-08-07,Laboratory,X-Ray,mild condition,antihypertensive,9,1,stable
+32,female,single,tertiary,heart disease,peanuts,antidepressants,2024-11-02,Outpatient Clinic,X-Ray,healthy,none,9,1,worsened
+80,male,widowed,secondary,heart disease,none,aspirin,2024-11-26,Outpatient Clinic,Surgery,severe condition,pain reliever,6,1,worsened
+45,female,divorced,secondary,hypertension,dust,antidepressants,2024-07-22,Radiology,MRI,severe condition,pain reliever,6,1,stable
+47,female,single,secondary,diabetes,penicillin,insulin,2024-05-29,Radiology,X-Ray,mild condition,pain reliever,9,0,improved
+22,female,single,secondary,hypertension,penicillin,aspirin,2024-12-14,Radiology,CT Scan,mild condition,antihypertensive,4,1,worsened
+52,female,married,tertiary,hypertension,dust,insulin,2024-12-07,Inpatient Ward,CT Scan,mild condition,none,10,1,stable
+83,male,married,primary,heart disease,peanuts,antidepressants,2024-12-17,Inpatient Ward,X-Ray,mild condition,pain reliever,8,0,improved
+59,male,divorced,tertiary,heart disease,none,antidepressants,2024-10-07,Laboratory,Ultrasound,moderate condition,antibiotic,9,1,improved
+49,female,married,secondary,none,none,none,2024-10-06,Radiology,MRI,moderate condition,antihypertensive,7,0,improved
+50,female,single,secondary,hypertension,peanuts,antidepressants,2024-04-28,Outpatient Clinic,X-Ray,moderate condition,none,10,0,stable
+64,female,single,primary,none,peanuts,blood pressure medication,2024-12-08,Laboratory,Ultrasound,healthy,pain reliever,4,1,improved
+22,female,widowed,primary,heart disease,none,antidepressants,2024-05-06,Outpatient Clinic,Surgery,mild condition,antibiotic,9,0,worsened
+18,male,single,tertiary,diabetes,dust,aspirin,2024-02-04,Inpatient Ward,Ultrasound,moderate condition,antibiotic,2,1,improved
+63,female,single,secondary,none,dust,antidepressants,2024-10-12,Radiology,Blood Test,mild condition,antibiotic,3,0,stable
+66,male,married,tertiary,asthma,dust,antidepressants,2024-10-09,Outpatient Clinic,MRI,healthy,pain reliever,3,0,improved
+39,male,married,secondary,none,penicillin,antidepressants,2024-09-30,Laboratory,MRI,healthy,antibiotic,3,0,improved
+82,male,divorced,secondary,hypertension,penicillin,insulin,2024-07-16,Inpatient Ward,MRI,healthy,antibiotic,2,0,stable
+57,female,widowed,secondary,asthma,pollen,none,2024-09-13,Emergency Room,Ultrasound,healthy,none,8,0,improved
+78,male,widowed,primary,asthma,pollen,insulin,2024-09-25,Laboratory,Surgery,mild condition,pain reliever,1,1,stable
+49,male,married,secondary,asthma,none,none,2024-02-08,Outpatient Clinic,CT Scan,severe condition,antihypertensive,6,1,stable
+42,male,divorced,secondary,none,pollen,blood pressure medication,2024-09-23,Inpatient Ward,X-Ray,mild condition,pain reliever,8,0,improved
+41,male,single,primary,heart disease,pollen,antidepressants,2024-06-29,Emergency Room,MRI,moderate condition,antibiotic,7,1,improved
+26,male,divorced,secondary,heart disease,none,antidepressants,2024-12-28,Outpatient Clinic,X-Ray,healthy,antihypertensive,9,0,worsened
+55,male,single,secondary,heart disease,penicillin,blood pressure medication,2024-09-17,Radiology,Surgery,moderate condition,none,8,1,worsened
+73,female,single,secondary,asthma,penicillin,antidepressants,2024-04-06,Emergency Room,MRI,severe condition,none,7,1,improved
+33,female,married,primary,asthma,dust,antidepressants,2024-02-05,Outpatient Clinic,Surgery,severe condition,antibiotic,9,1,worsened
+84,male,married,secondary,none,penicillin,aspirin,2024-12-01,Outpatient Clinic,Blood Test,mild condition,antihypertensive,8,0,stable
+85,male,single,tertiary,hypertension,none,antidepressants,2024-05-05,Emergency Room,X-Ray,severe condition,antibiotic,9,1,worsened
+65,female,married,primary,asthma,none,insulin,2024-03-13,Inpatient Ward,Ultrasound,healthy,antibiotic,1,0,worsened
+55,female,divorced,tertiary,heart disease,peanuts,insulin,2024-02-29,Emergency Room,MRI,mild condition,pain reliever,7,1,worsened
+32,male,divorced,primary,none,dust,aspirin,2024-10-22,Radiology,Surgery,moderate condition,pain reliever,9,1,improved
+30,male,single,tertiary,none,penicillin,aspirin,2024-04-09,Laboratory,Surgery,severe condition,antihypertensive,1,1,stable
+31,male,married,primary,heart disease,none,aspirin,2024-02-04,Radiology,Blood Test,healthy,antibiotic,10,0,worsened
+49,male,widowed,secondary,none,dust,none,2024-11-04,Emergency Room,X-Ray,healthy,pain reliever,5,1,improved
+70,female,widowed,primary,hypertension,dust,none,2024-01-08,Laboratory,Ultrasound,healthy,antihypertensive,7,0,stable
+64,male,married,tertiary,hypertension,dust,insulin,2024-09-17,Emergency Room,Blood Test,severe condition,antibiotic,4,0,improved
+24,male,single,primary,none,pollen,insulin,2024-01-08,Emergency Room,Surgery,severe condition,pain reliever,5,0,worsened
+48,female,widowed,primary,hypertension,penicillin,insulin,2024-02-14,Laboratory,Surgery,severe condition,none,1,0,worsened
+27,female,married,primary,none,peanuts,aspirin,2024-09-25,Outpatient Clinic,Ultrasound,severe condition,antibiotic,9,1,improved
+48,female,single,primary,asthma,penicillin,none,2024-02-11,Outpatient Clinic,MRI,moderate condition,pain reliever,4,0,improved
+34,female,married,primary,heart disease,dust,none,2024-11-29,Radiology,Surgery,healthy,antibiotic,9,0,worsened
+50,female,married,secondary,none,pollen,blood pressure medication,2024-05-17,Inpatient Ward,MRI,mild condition,antihypertensive,3,1,improved
+68,female,divorced,secondary,asthma,dust,none,2024-08-25,Inpatient Ward,Blood Test,moderate condition,antihypertensive,2,1,stable
+62,female,divorced,primary,diabetes,peanuts,none,2024-06-24,Emergency Room,Surgery,severe condition,pain reliever,8,0,improved
+84,female,married,secondary,asthma,peanuts,insulin,2024-02-19,Outpatient Clinic,Surgery,severe condition,pain reliever,2,1,stable
+70,male,married,tertiary,asthma,none,insulin,2024-12-12,Inpatient Ward,Ultrasound,mild condition,none,6,0,worsened
+82,male,divorced,secondary,none,pollen,insulin,2024-06-14,Emergency Room,Ultrasound,mild condition,none,1,1,stable
+75,female,single,primary,heart disease,penicillin,aspirin,2024-05-13,Inpatient Ward,CT Scan,severe condition,antibiotic,7,1,worsened
+83,female,widowed,secondary,none,peanuts,insulin,2024-07-05,Emergency Room,X-Ray,mild condition,none,1,1,stable
+25,female,widowed,primary,heart disease,none,antidepressants,2024-10-28,Radiology,Blood Test,mild condition,pain reliever,10,1,stable
+43,female,widowed,tertiary,diabetes,penicillin,none,2024-01-25,Outpatient Clinic,Ultrasound,mild condition,antibiotic,10,0,stable
+45,female,single,tertiary,diabetes,none,aspirin,2024-01-11,Laboratory,Blood Test,mild condition,none,2,1,stable
+20,male,married,primary,diabetes,penicillin,aspirin,2024-05-17,Radiology,X-Ray,healthy,antihypertensive,8,1,stable
+81,male,single,primary,asthma,pollen,blood pressure medication,2024-10-23,Laboratory,CT Scan,mild condition,antihypertensive,10,0,worsened
+82,male,widowed,secondary,hypertension,penicillin,antidepressants,2024-07-25,Inpatient Ward,X-Ray,healthy,pain reliever,5,1,worsened
+67,male,married,primary,none,peanuts,aspirin,2024-09-18,Laboratory,CT Scan,mild condition,none,3,0,worsened
+49,male,widowed,primary,asthma,dust,insulin,2024-12-08,Laboratory,MRI,healthy,antihypertensive,6,1,stable
+50,female,divorced,primary,hypertension,penicillin,antidepressants,2024-07-09,Outpatient Clinic,Ultrasound,mild condition,none,7,0,worsened
+21,male,single,secondary,asthma,peanuts,blood pressure medication,2024-03-29,Laboratory,Blood Test,moderate condition,antibiotic,4,1,stable
+31,male,divorced,secondary,asthma,none,none,2024-08-09,Laboratory,Ultrasound,healthy,antibiotic,2,0,stable
+27,male,single,secondary,hypertension,penicillin,aspirin,2024-07-19,Outpatient Clinic,CT Scan,severe condition,pain reliever,4,0,stable
+23,male,divorced,secondary,heart disease,peanuts,blood pressure medication,2024-06-16,Radiology,MRI,healthy,antihypertensive,8,1,stable
+78,male,married,tertiary,hypertension,pollen,none,2024-10-12,Outpatient Clinic,CT Scan,severe condition,none,3,0,worsened
+57,female,divorced,secondary,heart disease,none,blood pressure medication,2024-11-24,Inpatient Ward,X-Ray,mild condition,antihypertensive,7,0,worsened
+32,male,single,tertiary,heart disease,dust,aspirin,2024-06-19,Emergency Room,Ultrasound,mild condition,none,10,1,improved
+51,female,widowed,secondary,hypertension,peanuts,none,2024-10-05,Emergency Room,Blood Test,mild condition,antibiotic,5,1,worsened
+29,male,divorced,tertiary,none,peanuts,insulin,2024-04-22,Inpatient Ward,MRI,moderate condition,antibiotic,7,1,worsened
+67,female,divorced,tertiary,asthma,penicillin,none,2024-01-09,Outpatient Clinic,Ultrasound,moderate condition,pain reliever,8,0,worsened
+46,female,divorced,primary,asthma,pollen,aspirin,2024-08-01,Radiology,X-Ray,healthy,antibiotic,6,1,improved
+67,male,divorced,secondary,heart disease,none,antidepressants,2024-12-15,Outpatient Clinic,Ultrasound,healthy,none,6,0,worsened
+43,male,divorced,secondary,asthma,none,antidepressants,2024-04-01,Radiology,Surgery,mild condition,none,6,1,stable
+81,female,divorced,tertiary,heart disease,pollen,aspirin,2024-12-09,Inpatient Ward,X-Ray,severe condition,antihypertensive,3,0,worsened
+83,male,married,secondary,hypertension,pollen,blood pressure medication,2024-01-18,Laboratory,Surgery,mild condition,antibiotic,5,1,stable
+63,female,married,secondary,diabetes,pollen,insulin,2024-11-29,Outpatient Clinic,CT Scan,moderate condition,none,8,0,improved
+32,male,married,primary,diabetes,pollen,aspirin,2024-12-13,Laboratory,Blood Test,healthy,pain reliever,4,1,improved
+46,male,single,primary,hypertension,peanuts,blood pressure medication,2024-03-23,Emergency Room,Blood Test,severe condition,antibiotic,9,0,improved
+46,female,single,primary,none,pollen,aspirin,2024-08-06,Inpatient Ward,X-Ray,severe condition,none,3,1,improved
+34,female,divorced,secondary,hypertension,none,blood pressure medication,2024-07-14,Inpatient Ward,Surgery,healthy,antibiotic,4,1,improved
+85,female,single,tertiary,diabetes,none,none,2024-07-09,Inpatient Ward,X-Ray,moderate condition,none,3,1,worsened
+55,male,single,tertiary,hypertension,pollen,insulin,2024-04-27,Radiology,X-Ray,severe condition,antihypertensive,9,0,worsened
+29,male,single,tertiary,none,penicillin,blood pressure medication,2024-06-03,Radiology,Surgery,severe condition,none,4,1,worsened
+31,female,married,primary,none,peanuts,blood pressure medication,2024-05-11,Emergency Room,MRI,severe condition,antihypertensive,10,0,stable
+45,female,divorced,tertiary,asthma,pollen,blood pressure medication,2024-04-18,Inpatient Ward,MRI,healthy,pain reliever,10,0,improved
+58,female,married,primary,none,pollen,aspirin,2024-06-30,Inpatient Ward,Ultrasound,severe condition,antihypertensive,3,1,stable
+37,female,divorced,primary,hypertension,pollen,insulin,2024-05-15,Laboratory,Ultrasound,healthy,antihypertensive,4,0,improved
+84,male,single,primary,hypertension,penicillin,insulin,2024-05-10,Laboratory,Ultrasound,severe condition,none,10,0,improved
+43,male,single,tertiary,diabetes,penicillin,blood pressure medication,2024-12-05,Radiology,Blood Test,healthy,pain reliever,7,0,improved
+53,male,widowed,tertiary,heart disease,none,insulin,2024-08-16,Radiology,Blood Test,mild condition,pain reliever,5,1,stable
+52,male,widowed,secondary,asthma,none,antidepressants,2024-09-06,Inpatient Ward,Blood Test,moderate condition,antihypertensive,7,1,stable
+66,male,divorced,secondary,heart disease,penicillin,insulin,2024-04-07,Emergency Room,Ultrasound,mild condition,none,10,0,improved
+46,male,single,tertiary,heart disease,dust,insulin,2024-02-21,Emergency Room,CT Scan,severe condition,none,4,0,stable
+62,female,married,tertiary,heart disease,penicillin,blood pressure medication,2024-12-12,Emergency Room,Blood Test,healthy,pain reliever,9,0,stable
+56,male,single,primary,asthma,none,aspirin,2024-06-25,Emergency Room,Blood Test,mild condition,antibiotic,1,1,stable
+81,male,married,tertiary,none,pollen,insulin,2024-12-04,Emergency Room,Ultrasound,severe condition,antibiotic,1,0,worsened
+26,female,single,primary,heart disease,pollen,blood pressure medication,2024-09-06,Outpatient Clinic,Ultrasound,moderate condition,pain reliever,6,1,worsened
+61,male,divorced,primary,diabetes,dust,antidepressants,2024-06-08,Radiology,MRI,moderate condition,pain reliever,8,0,stable
+41,male,divorced,primary,none,penicillin,none,2024-07-26,Inpatient Ward,Ultrasound,healthy,none,7,0,stable
+19,female,widowed,secondary,diabetes,none,none,2024-09-11,Radiology,CT Scan,healthy,pain reliever,2,1,worsened
+29,female,widowed,secondary,hypertension,pollen,insulin,2024-10-28,Radiology,X-Ray,mild condition,pain reliever,7,1,stable
+77,male,married,secondary,none,penicillin,none,2024-12-02,Outpatient Clinic,Ultrasound,healthy,antibiotic,6,0,improved
+42,female,single,secondary,diabetes,dust,aspirin,2024-07-29,Radiology,MRI,moderate condition,antibiotic,5,0,stable
+71,male,married,secondary,hypertension,dust,none,2024-04-21,Outpatient Clinic,Blood Test,moderate condition,pain reliever,4,1,improved
+80,female,single,primary,heart disease,none,aspirin,2024-08-24,Outpatient Clinic,X-Ray,severe condition,antibiotic,10,1,stable
+38,female,single,primary,heart disease,pollen,insulin,2024-04-13,Laboratory,MRI,severe condition,pain reliever,7,1,worsened
+36,female,single,primary,diabetes,peanuts,none,2024-06-22,Emergency Room,Ultrasound,mild condition,none,7,0,stable
+48,female,married,secondary,hypertension,pollen,insulin,2024-08-06,Emergency Room,Surgery,healthy,antihypertensive,9,0,worsened
+21,male,divorced,secondary,asthma,dust,aspirin,2024-10-12,Laboratory,MRI,mild condition,pain reliever,9,1,stable
+34,male,married,tertiary,asthma,dust,none,2024-10-28,Laboratory,X-Ray,moderate condition,antibiotic,10,0,stable
+47,male,married,primary,none,pollen,insulin,2024-03-26,Radiology,X-Ray,mild condition,pain reliever,5,1,stable
+60,female,married,secondary,asthma,pollen,antidepressants,2024-08-24,Inpatient Ward,Blood Test,severe condition,none,7,1,improved
+55,male,single,primary,none,peanuts,antidepressants,2024-01-07,Laboratory,Blood Test,healthy,antihypertensive,9,1,improved
+80,female,married,primary,hypertension,dust,blood pressure medication,2024-03-20,Inpatient Ward,MRI,healthy,antihypertensive,2,0,worsened
+82,male,divorced,primary,none,dust,antidepressants,2024-07-23,Inpatient Ward,CT Scan,mild condition,antibiotic,2,1,improved
+34,female,widowed,secondary,hypertension,pollen,none,2024-08-15,Inpatient Ward,Surgery,severe condition,antibiotic,5,0,stable
+78,male,divorced,tertiary,none,penicillin,none,2024-06-18,Outpatient Clinic,CT Scan,mild condition,antibiotic,2,1,improved
+48,male,divorced,secondary,none,dust,insulin,2024-03-04,Radiology,Blood Test,moderate condition,antihypertensive,5,0,stable
+64,male,divorced,tertiary,none,peanuts,insulin,2024-04-25,Emergency Room,Ultrasound,healthy,pain reliever,6,1,improved
+50,female,single,secondary,hypertension,pollen,none,2024-04-22,Inpatient Ward,CT Scan,healthy,antibiotic,8,0,improved
+58,female,single,primary,hypertension,peanuts,blood pressure medication,2024-12-16,Inpatient Ward,CT Scan,mild condition,antibiotic,3,1,stable
+29,male,married,primary,asthma,peanuts,blood pressure medication,2024-09-11,Radiology,X-Ray,severe condition,none,5,1,stable
+25,male,widowed,secondary,none,pollen,antidepressants,2024-08-24,Laboratory,Blood Test,mild condition,antihypertensive,9,0,stable
+57,male,single,primary,heart disease,peanuts,blood pressure medication,2024-05-03,Outpatient Clinic,Surgery,severe condition,antibiotic,3,1,improved
+67,female,divorced,primary,hypertension,none,aspirin,2024-07-26,Outpatient Clinic,Surgery,severe condition,none,3,1,worsened
+54,male,divorced,tertiary,heart disease,penicillin,insulin,2024-03-11,Outpatient Clinic,MRI,moderate condition,antibiotic,4,0,stable
+43,male,widowed,tertiary,diabetes,pollen,aspirin,2024-09-19,Emergency Room,Ultrasound,healthy,antihypertensive,5,1,worsened
+21,female,widowed,primary,diabetes,penicillin,insulin,2024-08-05,Outpatient Clinic,Blood Test,healthy,none,4,0,improved
+79,male,widowed,tertiary,asthma,none,antidepressants,2024-02-04,Inpatient Ward,Surgery,moderate condition,pain reliever,10,0,improved
+50,male,married,secondary,none,dust,insulin,2024-03-09,Radiology,X-Ray,healthy,antihypertensive,4,1,stable
+29,female,divorced,primary,heart disease,penicillin,insulin,2024-03-10,Inpatient Ward,Blood Test,mild condition,antibiotic,1,0,stable
+72,female,widowed,secondary,diabetes,penicillin,antidepressants,2024-07-05,Outpatient Clinic,Blood Test,mild condition,none,5,1,improved
+20,female,married,primary,heart disease,none,aspirin,2024-01-31,Inpatient Ward,Surgery,mild condition,antibiotic,1,0,stable
+79,female,married,primary,hypertension,peanuts,blood pressure medication,2024-11-12,Emergency Room,Ultrasound,severe condition,antibiotic,7,0,stable
+34,male,widowed,tertiary,heart disease,dust,none,2024-04-25,Laboratory,Blood Test,severe condition,antibiotic,10,1,improved
+55,male,single,secondary,diabetes,peanuts,blood pressure medication,2024-04-06,Emergency Room,Blood Test,mild condition,none,7,1,improved
+64,male,divorced,secondary,none,none,blood pressure medication,2024-02-11,Outpatient Clinic,X-Ray,healthy,antihypertensive,6,0,improved
+63,female,divorced,primary,hypertension,dust,insulin,2024-11-18,Radiology,Surgery,severe condition,antihypertensive,3,1,stable
+44,male,single,tertiary,heart disease,pollen,blood pressure medication,2024-08-19,Emergency Room,CT Scan,mild condition,pain reliever,5,0,stable
+55,female,divorced,secondary,heart disease,peanuts,insulin,2024-05-12,Outpatient Clinic,Blood Test,severe condition,none,5,1,worsened
+77,male,married,primary,none,peanuts,none,2024-07-20,Inpatient Ward,Ultrasound,moderate condition,pain reliever,8,1,worsened
+33,male,married,primary,diabetes,peanuts,antidepressants,2024-03-24,Laboratory,Blood Test,moderate condition,none,4,1,improved
+79,male,divorced,primary,asthma,penicillin,aspirin,2024-12-05,Emergency Room,MRI,moderate condition,antibiotic,2,0,worsened
+33,female,single,secondary,diabetes,peanuts,aspirin,2024-01-07,Outpatient Clinic,X-Ray,mild condition,none,3,1,worsened
+22,male,single,tertiary,hypertension,penicillin,blood pressure medication,2024-06-25,Emergency Room,Surgery,severe condition,none,3,0,worsened
+77,female,widowed,tertiary,heart disease,none,insulin,2024-08-07,Outpatient Clinic,CT Scan,moderate condition,none,7,0,worsened
+68,male,single,secondary,asthma,penicillin,none,2024-10-30,Outpatient Clinic,Blood Test,mild condition,none,5,0,stable
+66,male,divorced,secondary,heart disease,pollen,insulin,2024-11-23,Laboratory,X-Ray,severe condition,pain reliever,4,1,stable
+69,female,married,secondary,none,none,antidepressants,2024-08-18,Laboratory,Blood Test,healthy,antibiotic,2,0,improved
+39,female,single,secondary,asthma,pollen,antidepressants,2024-10-27,Outpatient Clinic,MRI,healthy,antibiotic,8,0,worsened
+66,female,widowed,secondary,none,penicillin,insulin,2024-09-04,Outpatient Clinic,Ultrasound,healthy,antihypertensive,3,0,stable
+73,male,divorced,secondary,diabetes,penicillin,antidepressants,2024-11-24,Laboratory,Surgery,healthy,none,9,1,stable
+19,male,divorced,primary,diabetes,pollen,none,2024-09-22,Inpatient Ward,Blood Test,mild condition,antibiotic,10,1,worsened
+67,female,widowed,tertiary,diabetes,dust,none,2024-04-16,Emergency Room,X-Ray,moderate condition,pain reliever,3,0,stable
+55,male,divorced,tertiary,none,peanuts,aspirin,2024-11-22,Laboratory,MRI,moderate condition,antibiotic,1,0,worsened
+31,female,divorced,tertiary,heart disease,peanuts,aspirin,2024-10-24,Emergency Room,Surgery,healthy,pain reliever,7,1,worsened
+66,male,divorced,tertiary,asthma,penicillin,blood pressure medication,2024-04-18,Outpatient Clinic,CT Scan,healthy,none,9,1,worsened
+70,female,divorced,primary,hypertension,peanuts,none,2024-04-04,Inpatient Ward,CT Scan,severe condition,none,6,0,stable
+69,female,divorced,tertiary,diabetes,pollen,antidepressants,2024-09-06,Laboratory,X-Ray,mild condition,antibiotic,7,1,improved
+45,male,divorced,secondary,heart disease,dust,insulin,2024-07-18,Inpatient Ward,Ultrasound,mild condition,none,7,0,stable
+47,female,single,secondary,asthma,none,none,2024-07-06,Radiology,Blood Test,healthy,antihypertensive,8,1,improved
+52,male,widowed,primary,hypertension,dust,aspirin,2024-04-07,Emergency Room,Blood Test,severe condition,none,5,1,worsened
+45,male,married,secondary,diabetes,peanuts,insulin,2024-05-25,Outpatient Clinic,X-Ray,healthy,none,8,0,stable
+61,female,divorced,tertiary,heart disease,peanuts,none,2024-11-21,Emergency Room,CT Scan,healthy,antihypertensive,8,1,improved
+61,female,married,secondary,diabetes,penicillin,none,2024-05-08,Emergency Room,Blood Test,severe condition,antihypertensive,3,0,worsened
+26,female,widowed,secondary,diabetes,dust,aspirin,2024-02-11,Radiology,Ultrasound,mild condition,pain reliever,8,0,improved
+36,male,married,tertiary,hypertension,none,blood pressure medication,2024-02-22,Outpatient Clinic,Surgery,moderate condition,pain reliever,1,0,improved
+66,female,divorced,tertiary,heart disease,pollen,blood pressure medication,2024-02-15,Radiology,MRI,mild condition,pain reliever,6,0,worsened
+22,female,single,primary,asthma,penicillin,blood pressure medication,2024-02-06,Emergency Room,CT Scan,mild condition,antihypertensive,8,0,improved
+74,female,married,tertiary,heart disease,pollen,insulin,2024-12-08,Laboratory,Ultrasound,moderate condition,pain reliever,4,1,worsened
+55,female,single,secondary,heart disease,pollen,insulin,2024-06-17,Radiology,Ultrasound,mild condition,antihypertensive,10,0,stable
+43,female,married,secondary,asthma,peanuts,blood pressure medication,2024-01-12,Outpatient Clinic,X-Ray,mild condition,antibiotic,2,1,improved
+79,female,divorced,tertiary,hypertension,penicillin,antidepressants,2024-10-04,Inpatient Ward,Surgery,healthy,antihypertensive,9,1,stable
+68,male,widowed,secondary,none,pollen,none,2024-02-04,Radiology,Surgery,moderate condition,pain reliever,5,0,stable
+34,male,widowed,tertiary,none,peanuts,antidepressants,2024-05-15,Laboratory,X-Ray,mild condition,none,8,0,worsened
+36,male,single,tertiary,diabetes,penicillin,antidepressants,2024-04-04,Outpatient Clinic,X-Ray,healthy,pain reliever,8,0,stable
+26,male,widowed,secondary,diabetes,penicillin,blood pressure medication,2024-04-10,Outpatient Clinic,CT Scan,severe condition,pain reliever,3,0,stable
+76,female,married,primary,hypertension,pollen,blood pressure medication,2024-12-11,Laboratory,Ultrasound,healthy,pain reliever,8,0,stable
+56,male,single,secondary,diabetes,penicillin,antidepressants,2024-01-05,Emergency Room,Surgery,severe condition,antihypertensive,2,0,worsened
+47,male,married,secondary,none,none,insulin,2024-04-22,Emergency Room,CT Scan,mild condition,antibiotic,3,0,worsened
+30,female,married,secondary,heart disease,penicillin,insulin,2024-05-24,Inpatient Ward,X-Ray,healthy,antihypertensive,9,1,worsened
+68,male,widowed,tertiary,none,pollen,aspirin,2024-08-17,Outpatient Clinic,Blood Test,moderate condition,pain reliever,4,1,stable
+55,female,single,secondary,diabetes,dust,insulin,2024-03-16,Outpatient Clinic,CT Scan,mild condition,antihypertensive,4,0,improved
+83,female,single,primary,diabetes,peanuts,none,2024-09-19,Inpatient Ward,Blood Test,severe condition,antihypertensive,6,0,improved
+61,male,widowed,tertiary,hypertension,peanuts,antidepressants,2024-12-19,Laboratory,CT Scan,severe condition,antihypertensive,3,1,stable
+40,female,married,secondary,diabetes,penicillin,insulin,2024-01-03,Outpatient Clinic,CT Scan,mild condition,antihypertensive,3,1,improved
+64,female,single,primary,none,none,antidepressants,2024-06-09,Outpatient Clinic,CT Scan,severe condition,antibiotic,6,1,improved
+66,female,single,secondary,diabetes,peanuts,blood pressure medication,2024-04-30,Inpatient Ward,X-Ray,mild condition,none,4,1,worsened
+19,male,married,tertiary,diabetes,penicillin,insulin,2024-09-22,Outpatient Clinic,CT Scan,mild condition,none,2,0,improved
+48,female,married,secondary,hypertension,dust,insulin,2024-09-11,Outpatient Clinic,Blood Test,severe condition,antibiotic,8,0,stable
+60,female,single,primary,diabetes,none,insulin,2024-06-03,Laboratory,X-Ray,moderate condition,antihypertensive,9,1,improved
+62,female,single,tertiary,heart disease,peanuts,antidepressants,2024-02-14,Emergency Room,X-Ray,severe condition,antihypertensive,9,0,worsened
+50,male,single,tertiary,diabetes,penicillin,insulin,2024-10-28,Emergency Room,X-Ray,severe condition,pain reliever,7,1,improved
+69,female,single,secondary,asthma,none,none,2024-08-14,Emergency Room,CT Scan,severe condition,antibiotic,1,0,worsened
+66,female,widowed,secondary,asthma,none,aspirin,2024-06-09,Emergency Room,X-Ray,mild condition,none,9,0,improved
+68,male,married,primary,none,peanuts,insulin,2024-11-24,Inpatient Ward,Blood Test,severe condition,antibiotic,1,1,stable
+85,male,divorced,tertiary,none,pollen,blood pressure medication,2024-12-28,Emergency Room,Blood Test,moderate condition,antibiotic,3,1,improved
