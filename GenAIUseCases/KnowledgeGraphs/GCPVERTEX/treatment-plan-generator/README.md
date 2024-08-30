@@ -1,12 +1,15 @@
 AI-Powered Treatment Plan Generator
-This project uses Google Cloud Platform's Vertex AI to generate personalized treatment plans based on patient history and similar cases. It consists of two main Python scripts: treatment_plan_generator.py and test_treatment_plan_generator.py.
+Overview
+This project leverages Google Cloud Platform's Vertex AI to generate personalized treatment plans based on patient information and similar case outcomes. It features a user-friendly graphical interface that allows healthcare professionals to load customizable prompt templates and generate AI-powered treatment plans efficiently.
 Table of Contents
 
 Prerequisites
-Setup
-File Descriptions
+Installation
 Usage
-Example Output
+Prompt Template
+Features
+File Descriptions
+Customization
 Limitations and Considerations
 Contributing
 License
@@ -17,7 +20,7 @@ Python 3.7 or higher
 A Google Cloud Platform account with Vertex AI API enabled
 Google Cloud CLI installed and configured
 
-Setup
+Installation
 
 cd treatment-plan-generator
 
@@ -31,37 +34,40 @@ Set your Google Cloud project ID:
 Copyexport GOOGLE_CLOUD_PROJECT="your-project-id"
 
 
-File Descriptions
-
-treatment_plan_generator.py: Contains the main functions for initializing Vertex AI and generating treatment plans.
-test_treatment_plan_generator.py: A script to test the treatment plan generator with sample patient data.
-
 Usage
 
-To generate a treatment plan, use the generate_treatment_plan function in treatment_plan_generator.py:
-pythonCopyfrom treatment_plan_generator import initialize_vertexai, generate_treatment_plan
+Run the application:
+Copypython treatment_plan_generator_ui.py
 
-initialize_vertexai(project_id="your-project-id", location="us-central1")
+In the UI:
 
-patient_history = "Patient is a 60-year-old female with..."
-similar_cases = "In similar cases of patients with hypertension..."
-
-treatment_plan = generate_treatment_plan(patient_history, similar_cases)
-print(treatment_plan)
-
-To run the test script:
-Copypython test_treatment_plan_generator.py
+Click "Load Prompt Template" and select your prompt_template.txt file.
+Edit the loaded template, replacing placeholders with specific patient information.
+Click "Generate Treatment Plan" to get the AI-generated plan.
 
 
-Example Output
-The generated treatment plan will include sections such as:
 
-Initial Consultation and Assessment
-Lifestyle Modifications
-Medication Management
-Specialist Referrals
-Follow-up Care
-Additional Considerations
+Prompt Template
+A sample prompt_template.txt is provided in the repository. This template includes structured sections for patient information, similar case outcomes, and specific aspects of the treatment plan to be generated. You can customize this template or create new ones to suit different medical specialties or case types.
+Features
+
+User-friendly graphical interface
+Customizable prompt templates
+Integration with GCP Vertex AI for advanced language model capabilities
+Ability to generate comprehensive, personalized treatment plans
+Easy review and modification of generated plans within the application
+
+File Descriptions
+
+treatment_plan_generator_ui.py: Main application file containing the UI code and Vertex AI integration.
+prompt_template.txt: Sample prompt template for generating treatment plans.
+
+Customization
+You can customize the application by:
+
+Modifying the prompt_template.txt file to change the structure or content of the prompts.
+Adjusting the Vertex AI model parameters in the generate_treatment_plan function for different output characteristics.
+Expanding the UI to include additional features or input fields as needed.
 
 Limitations and Considerations
 
