@@ -4,17 +4,6 @@ This project leverages Google Cloud Platform's Vertex AI to generate personalize
 Table of Contents
 
 Prerequisites
-Installation
-Usage
-Prompt Template
-Features
-File Descriptions
-Customization
-Limitations and Considerations
-Contributing
-License
-
-Prerequisites
 
 Python 3.7 or higher
 A Google Cloud Platform account with Vertex AI API enabled
