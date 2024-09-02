@@ -25,19 +25,19 @@ Installation
 cd treatment-plan-generator
 
 Install the required Python packages:
-Copypip install google-cloud-aiplatform
+pip install google-cloud-aiplatform
 
 Set up your Google Cloud credentials:
-Copyexport GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-key.json"
+export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-key.json"
 
 Set your Google Cloud project ID:
-Copyexport GOOGLE_CLOUD_PROJECT="your-project-id"
+export GOOGLE_CLOUD_PROJECT="your-project-id"
 
 
 Usage
 
 Run the application:
-Copypython treatment_plan_generator_ui.py
+python treatment_plan_generator_ui.py
 
 In the UI:
 
