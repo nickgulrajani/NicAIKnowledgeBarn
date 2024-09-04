@@ -1,3 +1,5 @@
+#Author: Nicholas Gulrajani
+
 import networkx as nx
 import matplotlib.pyplot as plt
 from py2neo import Graph
